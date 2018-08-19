@@ -1,0 +1,64 @@
+Logistic Regression results:-
+1.             Estimate Std. Error z value Pr(>|z|)    
+(Intercept)      -4.3279     1.1236  -3.852 0.000117 ***
+Op.Wickets.Lost   0.7891     0.1875   4.209 2.57e-05 ***
+
+Threshold=0.5
+    FALSE TRUE
+  0     8    1
+  1     4   10
+Accuracy: 78.26%
+
+2. 
+                Estimate Std. Error z value Pr(>|z|)    
+(Intercept)      -5.6539     1.7434  -3.243 0.001183 ** 
+Op.Wickets.Lost   0.7944     0.2306   3.445 0.000571 ***
+Bat.120           0.4404     0.2605   1.690 0.090936 . 
+
+Threshold= 0.5
+     FALSE TRUE
+  0     8    1
+  1     3   11
+Accuracy: 82.6%
+
+3. Coefficients:
+                Estimate Std. Error z value Pr(>|z|)  
+(Intercept)     -30.1244    11.9628  -2.518   0.0118 *
+RPO               4.2465     1.8300   2.321   0.0203 *
+bat.BF20         -0.3325     0.8441  -0.394   0.6936  
+bowl.high_econ   -2.9134     1.2261  -2.376   0.0175 *
+clean.bowled     -0.2492     0.5796  -0.430   0.6672  
+Bat.120          -1.4656     0.9809  -1.494   0.1351  
+Op.Wickets.Lost   0.9058     0.3606   2.512   0.0120 *
+Threshold =0.5
+Confusion matrix:
+     FALSE TRUE
+  0     8    1
+  1     1   13
+Accuracy: 21/23 = 91.3%
+
+Threshold = 0.3
+Confusion matrix:
+     FALSE TRUE
+  0     8    1
+  1     0   14
+Accuracy: 22/23 = 95.6%
+
+4. Coefficients:
+                Estimate Std. Error z value Pr(>|z|)  
+(Intercept)      -0.4555     3.4090  -0.134   0.8937  
+Wickets.Lost     -1.4212     0.6209  -2.289   0.0221 *
+Op.Wickets.Lost   0.7944     0.5844   1.359   0.1740  
+Bat.fail          0.7936     0.7635   1.039   0.2986  
+bowl.maxw         0.6757     1.1292   0.598   0.5496  
+bowl.nowkt       -0.3885     0.7544  -0.515   0.6066  
+bowl.34.wkt       1.1155     0.7027   1.587   0.1124  
+
+Threshold=0.7
+
+Confusion matrix:
+     
+     FALSE TRUE
+  0     7    2
+  1     0   14
+Accuracy: 21/23 = 91.3%
