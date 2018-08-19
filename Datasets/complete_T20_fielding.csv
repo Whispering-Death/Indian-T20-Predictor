@@ -1,0 +1,793 @@
+Date,Player,Dis,Ct,St,Ct.Wk,Ct.Fi,field inns,Opposition,Ground,Match.Number,Score,Wickets.Lost,Overs,RPO,Target,bat inns,Result,Op.Score,Op.Wickets.Lost,Op.Overs,Op.RPO,Op.Target,Op.Inns
+01/12/06,AB Agarkar,0,0,0,0,0,1,v South Africa,Johannesburg,1,127,4,19.5,6.4,127,2,1,126,9,20,6.3,NA,1
+01/12/06,MS Dhoni,1,1,0,1,0,1,v South Africa,Johannesburg,1,127,4,19.5,6.4,127,2,1,126,9,20,6.3,NA,1
+01/12/06,Harbhajan Singh,0,0,0,0,0,1,v South Africa,Johannesburg,1,127,4,19.5,6.4,127,2,1,126,9,20,6.3,NA,1
+01/12/06,KD Karthik,0,0,0,0,0,1,v South Africa,Johannesburg,1,127,4,19.5,6.4,127,2,1,126,9,20,6.3,NA,1
+01/12/06,Z Khan,0,0,0,0,0,1,v South Africa,Johannesburg,1,127,4,19.5,6.4,127,2,1,126,9,20,6.3,NA,1
+01/12/06,D Mongia,1,1,0,0,1,1,v South Africa,Johannesburg,1,127,4,19.5,6.4,127,2,1,126,9,20,6.3,NA,1
+01/12/06,IK Pathan,0,0,0,0,0,1,v South Africa,Johannesburg,1,127,4,19.5,6.4,127,2,1,126,9,20,6.3,NA,1
+01/12/06,SK Raina,2,2,0,0,2,1,v South Africa,Johannesburg,1,127,4,19.5,6.4,127,2,1,126,9,20,6.3,NA,1
+01/12/06,V Sehwag,0,0,0,0,0,1,v South Africa,Johannesburg,1,127,4,19.5,6.4,127,2,1,126,9,20,6.3,NA,1
+01/12/06,S Sreesanth,0,0,0,0,0,1,v South Africa,Johannesburg,1,127,4,19.5,6.4,127,2,1,126,9,20,6.3,NA,1
+01/12/06,SR Tendulkar,1,1,0,0,1,1,v South Africa,Johannesburg,1,127,4,19.5,6.4,127,2,1,126,9,20,6.3,NA,1
+14/09/07,AB Agarkar,0,0,0,0,0,2,v Pakistan,Durban,2,141,9,20,7.05,NA,1,NA,141,7,20,7.05,142,2
+14/09/07,MS Dhoni,1,1,0,1,0,2,v Pakistan,Durban,2,141,9,20,7.05,NA,1,NA,141,7,20,7.05,142,2
+14/09/07,G Gambhir,0,0,0,0,0,2,v Pakistan,Durban,2,141,9,20,7.05,NA,1,NA,141,7,20,7.05,142,2
+14/09/07,Harbhajan Singh,1,1,0,0,1,2,v Pakistan,Durban,2,141,9,20,7.05,NA,1,NA,141,7,20,7.05,142,2
+14/09/07,KD Karthik,1,1,0,0,1,2,v Pakistan,Durban,2,141,9,20,7.05,NA,1,NA,141,7,20,7.05,142,2
+14/09/07,IK Pathan,0,0,0,0,0,2,v Pakistan,Durban,2,141,9,20,7.05,NA,1,NA,141,7,20,7.05,142,2
+14/09/07,V Sehwag,0,0,0,0,0,2,v Pakistan,Durban,2,141,9,20,7.05,NA,1,NA,141,7,20,7.05,142,2
+14/09/07,RP Singh,0,0,0,0,0,2,v Pakistan,Durban,2,141,9,20,7.05,NA,1,NA,141,7,20,7.05,142,2
+14/09/07,S Sreesanth,0,0,0,0,0,2,v Pakistan,Durban,2,141,9,20,7.05,NA,1,NA,141,7,20,7.05,142,2
+14/09/07,RV Uthappa,0,0,0,0,0,2,v Pakistan,Durban,2,141,9,20,7.05,NA,1,NA,141,7,20,7.05,142,2
+14/09/07,Yuvraj Singh,0,0,0,0,0,2,v Pakistan,Durban,2,141,9,20,7.05,NA,1,NA,141,7,20,7.05,142,2
+16/09/07,AB Agarkar,0,0,0,0,0,1,v New Zealand,Johannesburg,3,180,9,20,9,191,2,0,190,10,20,9.5,NA,1
+16/09/07,MS Dhoni,0,0,0,0,0,1,v New Zealand,Johannesburg,3,180,9,20,9,191,2,0,190,10,20,9.5,NA,1
+16/09/07,G Gambhir,1,1,0,0,1,1,v New Zealand,Johannesburg,3,180,9,20,9,191,2,0,190,10,20,9.5,NA,1
+16/09/07,Harbhajan Singh,0,0,0,0,0,1,v New Zealand,Johannesburg,3,180,9,20,9,191,2,0,190,10,20,9.5,NA,1
+16/09/07,KD Karthik,1,1,0,0,1,1,v New Zealand,Johannesburg,3,180,9,20,9,191,2,0,190,10,20,9.5,NA,1
+16/09/07,IK Pathan,0,0,0,0,0,1,v New Zealand,Johannesburg,3,180,9,20,9,191,2,0,190,10,20,9.5,NA,1
+16/09/07,V Sehwag,0,0,0,0,0,1,v New Zealand,Johannesburg,3,180,9,20,9,191,2,0,190,10,20,9.5,NA,1
+16/09/07,RP Singh,1,1,0,0,1,1,v New Zealand,Johannesburg,3,180,9,20,9,191,2,0,190,10,20,9.5,NA,1
+16/09/07,S Sreesanth,0,0,0,0,0,1,v New Zealand,Johannesburg,3,180,9,20,9,191,2,0,190,10,20,9.5,NA,1
+16/09/07,RV Uthappa,0,0,0,0,0,1,v New Zealand,Johannesburg,3,180,9,20,9,191,2,0,190,10,20,9.5,NA,1
+16/09/07,Yuvraj Singh,0,0,0,0,0,1,v New Zealand,Johannesburg,3,180,9,20,9,191,2,0,190,10,20,9.5,NA,1
+19/09/07,MS Dhoni,0,0,0,0,0,2,v England,Durban,4,218,4,20,10.9,NA,1,1,200,6,20,10,219,2
+19/09/07,G Gambhir,1,1,0,0,1,2,v England,Durban,4,218,4,20,10.9,NA,1,1,200,6,20,10,219,2
+19/09/07,Harbhajan Singh,2,2,0,0,2,2,v England,Durban,4,218,4,20,10.9,NA,1,1,200,6,20,10,219,2
+19/09/07,Joginder Sharma,1,1,0,0,1,2,v England,Durban,4,218,4,20,10.9,NA,1,1,200,6,20,10,219,2
+19/09/07,IK Pathan,0,0,0,0,0,2,v England,Durban,4,218,4,20,10.9,NA,1,1,200,6,20,10,219,2
+19/09/07,V Sehwag,0,0,0,0,0,2,v England,Durban,4,218,4,20,10.9,NA,1,1,200,6,20,10,219,2
+19/09/07,RG Sharma,1,1,0,0,1,2,v England,Durban,4,218,4,20,10.9,NA,1,1,200,6,20,10,219,2
+19/09/07,RP Singh,0,0,0,0,0,2,v England,Durban,4,218,4,20,10.9,NA,1,1,200,6,20,10,219,2
+19/09/07,S Sreesanth,0,0,0,0,0,2,v England,Durban,4,218,4,20,10.9,NA,1,1,200,6,20,10,219,2
+19/09/07,RV Uthappa,0,0,0,0,0,2,v England,Durban,4,218,4,20,10.9,NA,1,1,200,6,20,10,219,2
+19/09/07,Yuvraj Singh,0,0,0,0,0,2,v England,Durban,4,218,4,20,10.9,NA,1,1,200,6,20,10,219,2
+20/09/07,MS Dhoni,0,0,0,0,0,2,v South Africa,Durban,5,153,5,20,7.65,NA,1,1,116,9,20,5.8,154,2
+20/09/07,G Gambhir,0,0,0,0,0,2,v South Africa,Durban,5,153,5,20,7.65,NA,1,1,116,9,20,5.8,154,2
+20/09/07,Harbhajan Singh,0,0,0,0,0,2,v South Africa,Durban,5,153,5,20,7.65,NA,1,1,116,9,20,5.8,154,2
+20/09/07,Joginder Sharma,0,0,0,0,0,2,v South Africa,Durban,5,153,5,20,7.65,NA,1,1,116,9,20,5.8,154,2
+20/09/07,KD Karthik,3,1,2,0,1,2,v South Africa,Durban,5,153,5,20,7.65,NA,1,1,116,9,20,5.8,154,2
+20/09/07,IK Pathan,0,0,0,0,0,2,v South Africa,Durban,5,153,5,20,7.65,NA,1,1,116,9,20,5.8,154,2
+20/09/07,V Sehwag,0,0,0,0,0,2,v South Africa,Durban,5,153,5,20,7.65,NA,1,1,116,9,20,5.8,154,2
+20/09/07,RG Sharma,0,0,0,0,0,2,v South Africa,Durban,5,153,5,20,7.65,NA,1,1,116,9,20,5.8,154,2
+20/09/07,RP Singh,0,0,0,0,0,2,v South Africa,Durban,5,153,5,20,7.65,NA,1,1,116,9,20,5.8,154,2
+20/09/07,S Sreesanth,0,0,0,0,0,2,v South Africa,Durban,5,153,5,20,7.65,NA,1,1,116,9,20,5.8,154,2
+20/09/07,RV Uthappa,0,0,0,0,0,2,v South Africa,Durban,5,153,5,20,7.65,NA,1,1,116,9,20,5.8,154,2
+22/09/07,MS Dhoni,0,0,0,0,0,2,v Australia,Durban,6,188,5,20,9.4,NA,1,1,173,7,20,8.65,189,2
+22/09/07,G Gambhir,0,0,0,0,0,2,v Australia,Durban,6,188,5,20,9.4,NA,1,1,173,7,20,8.65,189,2
+22/09/07,Harbhajan Singh,0,0,0,0,0,2,v Australia,Durban,6,188,5,20,9.4,NA,1,1,173,7,20,8.65,189,2
+22/09/07,Joginder Sharma,1,1,0,0,1,2,v Australia,Durban,6,188,5,20,9.4,NA,1,1,173,7,20,8.65,189,2
+22/09/07,IK Pathan,0,0,0,0,0,2,v Australia,Durban,6,188,5,20,9.4,NA,1,1,173,7,20,8.65,189,2
+22/09/07,V Sehwag,0,0,0,0,0,2,v Australia,Durban,6,188,5,20,9.4,NA,1,1,173,7,20,8.65,189,2
+22/09/07,RG Sharma,0,0,0,0,0,2,v Australia,Durban,6,188,5,20,9.4,NA,1,1,173,7,20,8.65,189,2
+22/09/07,RP Singh,0,0,0,0,0,2,v Australia,Durban,6,188,5,20,9.4,NA,1,1,173,7,20,8.65,189,2
+22/09/07,S Sreesanth,0,0,0,0,0,2,v Australia,Durban,6,188,5,20,9.4,NA,1,1,173,7,20,8.65,189,2
+22/09/07,RV Uthappa,0,0,0,0,0,2,v Australia,Durban,6,188,5,20,9.4,NA,1,1,173,7,20,8.65,189,2
+22/09/07,Yuvraj Singh,1,1,0,0,1,2,v Australia,Durban,6,188,5,20,9.4,NA,1,1,173,7,20,8.65,189,2
+24/09/07,MS Dhoni,0,0,0,0,0,2,v Pakistan,Johannesburg,7,157,5,20,7.85,NA,1,1,152,10,19.3,7.79,158,2
+24/09/07,G Gambhir,0,0,0,0,0,2,v Pakistan,Johannesburg,7,157,5,20,7.85,NA,1,1,152,10,19.3,7.79,158,2
+24/09/07,Harbhajan Singh,0,0,0,0,0,2,v Pakistan,Johannesburg,7,157,5,20,7.85,NA,1,1,152,10,19.3,7.79,158,2
+24/09/07,Joginder Sharma,0,0,0,0,0,2,v Pakistan,Johannesburg,7,157,5,20,7.85,NA,1,1,152,10,19.3,7.79,158,2
+24/09/07,IK Pathan,0,0,0,0,0,2,v Pakistan,Johannesburg,7,157,5,20,7.85,NA,1,1,152,10,19.3,7.79,158,2
+24/09/07,YK Pathan,1,1,0,0,1,2,v Pakistan,Johannesburg,7,157,5,20,7.85,NA,1,1,152,10,19.3,7.79,158,2
+24/09/07,RG Sharma,1,1,0,0,1,2,v Pakistan,Johannesburg,7,157,5,20,7.85,NA,1,1,152,10,19.3,7.79,158,2
+24/09/07,RP Singh,0,0,0,0,0,2,v Pakistan,Johannesburg,7,157,5,20,7.85,NA,1,1,152,10,19.3,7.79,158,2
+24/09/07,S Sreesanth,2,2,0,0,2,2,v Pakistan,Johannesburg,7,157,5,20,7.85,NA,1,1,152,10,19.3,7.79,158,2
+24/09/07,RV Uthappa,1,1,0,0,1,2,v Pakistan,Johannesburg,7,157,5,20,7.85,NA,1,1,152,10,19.3,7.79,158,2
+24/09/07,Yuvraj Singh,0,0,0,0,0,2,v Pakistan,Johannesburg,7,157,5,20,7.85,NA,1,1,152,10,19.3,7.79,158,2
+20/10/07,MS Dhoni,0,0,0,0,0,1,v Australia,Mumbai (BS),8,167,3,18.1,9.19,167,2,1,166,5,20,8.3,NA,1
+20/10/07,G Gambhir,0,0,0,0,0,1,v Australia,Mumbai (BS),8,167,3,18.1,9.19,167,2,1,166,5,20,8.3,NA,1
+20/10/07,Harbhajan Singh,0,0,0,0,0,1,v Australia,Mumbai (BS),8,167,3,18.1,9.19,167,2,1,166,5,20,8.3,NA,1
+20/10/07,M Kartik,0,0,0,0,0,1,v Australia,Mumbai (BS),8,167,3,18.1,9.19,167,2,1,166,5,20,8.3,NA,1
+20/10/07,IK Pathan,0,0,0,0,0,1,v Australia,Mumbai (BS),8,167,3,18.1,9.19,167,2,1,166,5,20,8.3,NA,1
+20/10/07,V Sehwag,0,0,0,0,0,1,v Australia,Mumbai (BS),8,167,3,18.1,9.19,167,2,1,166,5,20,8.3,NA,1
+20/10/07,RG Sharma,0,0,0,0,0,1,v Australia,Mumbai (BS),8,167,3,18.1,9.19,167,2,1,166,5,20,8.3,NA,1
+20/10/07,RP Singh,0,0,0,0,0,1,v Australia,Mumbai (BS),8,167,3,18.1,9.19,167,2,1,166,5,20,8.3,NA,1
+20/10/07,S Sreesanth,0,0,0,0,0,1,v Australia,Mumbai (BS),8,167,3,18.1,9.19,167,2,1,166,5,20,8.3,NA,1
+20/10/07,RV Uthappa,0,0,0,0,0,1,v Australia,Mumbai (BS),8,167,3,18.1,9.19,167,2,1,166,5,20,8.3,NA,1
+20/10/07,Yuvraj Singh,0,0,0,0,0,1,v Australia,Mumbai (BS),8,167,3,18.1,9.19,167,2,1,166,5,20,8.3,NA,1
+01/02/08,MS Dhoni,0,0,0,0,0,2,v Australia,Melbourne,9,74,10,17.3,4.22,NA,1,0,75,1,11.2,6.61,75,2
+01/02/08,G Gambhir,1,1,0,0,1,2,v Australia,Melbourne,9,74,10,17.3,4.22,NA,1,0,75,1,11.2,6.61,75,2
+01/02/08,Harbhajan Singh,0,0,0,0,0,2,v Australia,Melbourne,9,74,10,17.3,4.22,NA,1,0,75,1,11.2,6.61,75,2
+01/02/08,KD Karthik,0,0,0,0,0,2,v Australia,Melbourne,9,74,10,17.3,4.22,NA,1,0,75,1,11.2,6.61,75,2
+01/02/08,P Kumar,0,0,0,0,0,2,v Australia,Melbourne,9,74,10,17.3,4.22,NA,1,0,75,1,11.2,6.61,75,2
+01/02/08,IK Pathan,0,0,0,0,0,2,v Australia,Melbourne,9,74,10,17.3,4.22,NA,1,0,75,1,11.2,6.61,75,2
+01/02/08,V Sehwag,0,0,0,0,0,2,v Australia,Melbourne,9,74,10,17.3,4.22,NA,1,0,75,1,11.2,6.61,75,2
+01/02/08,I Sharma,0,0,0,0,0,2,v Australia,Melbourne,9,74,10,17.3,4.22,NA,1,0,75,1,11.2,6.61,75,2
+01/02/08,RG Sharma,0,0,0,0,0,2,v Australia,Melbourne,9,74,10,17.3,4.22,NA,1,0,75,1,11.2,6.61,75,2
+01/02/08,S Sreesanth,0,0,0,0,0,2,v Australia,Melbourne,9,74,10,17.3,4.22,NA,1,0,75,1,11.2,6.61,75,2
+01/02/08,RV Uthappa,0,0,0,0,0,2,v Australia,Melbourne,9,74,10,17.3,4.22,NA,1,0,75,1,11.2,6.61,75,2
+10/02/09,MS Dhoni,0,0,0,0,0,1,v Sri Lanka,Colombo (RPS),10,174,7,19.2,9,172,2,1,171,4,20,8.55,NA,1
+10/02/09,G Gambhir,0,0,0,0,0,1,v Sri Lanka,Colombo (RPS),10,174,7,19.2,9,172,2,1,171,4,20,8.55,NA,1
+10/02/09,RA Jadeja,0,0,0,0,0,1,v Sri Lanka,Colombo (RPS),10,174,7,19.2,9,172,2,1,171,4,20,8.55,NA,1
+10/02/09,Z Khan,0,0,0,0,0,1,v Sri Lanka,Colombo (RPS),10,174,7,19.2,9,172,2,1,171,4,20,8.55,NA,1
+10/02/09,IK Pathan,0,0,0,0,0,1,v Sri Lanka,Colombo (RPS),10,174,7,19.2,9,172,2,1,171,4,20,8.55,NA,1
+10/02/09,YK Pathan,1,1,0,0,1,1,v Sri Lanka,Colombo (RPS),10,174,7,19.2,9,172,2,1,171,4,20,8.55,NA,1
+10/02/09,SK Raina,1,1,0,0,1,1,v Sri Lanka,Colombo (RPS),10,174,7,19.2,9,172,2,1,171,4,20,8.55,NA,1
+10/02/09,V Sehwag,1,1,0,0,1,1,v Sri Lanka,Colombo (RPS),10,174,7,19.2,9,172,2,1,171,4,20,8.55,NA,1
+10/02/09,I Sharma,1,1,0,0,1,1,v Sri Lanka,Colombo (RPS),10,174,7,19.2,9,172,2,1,171,4,20,8.55,NA,1
+10/02/09,RG Sharma,0,0,0,0,0,1,v Sri Lanka,Colombo (RPS),10,174,7,19.2,9,172,2,1,171,4,20,8.55,NA,1
+10/02/09,Yuvraj Singh,0,0,0,0,0,1,v Sri Lanka,Colombo (RPS),10,174,7,19.2,9,172,2,1,171,4,20,8.55,NA,1
+25/02/09,MS Dhoni,0,0,0,0,0,2,v New Zealand,Christchurch,11,162,8,20,8.1,NA,1,0,166,3,18.5,8.81,163,2
+25/02/09,G Gambhir,0,0,0,0,0,2,v New Zealand,Christchurch,11,162,8,20,8.1,NA,1,0,166,3,18.5,8.81,163,2
+25/02/09,Harbhajan Singh,0,0,0,0,0,2,v New Zealand,Christchurch,11,162,8,20,8.1,NA,1,0,166,3,18.5,8.81,163,2
+25/02/09,Z Khan,0,0,0,0,0,2,v New Zealand,Christchurch,11,162,8,20,8.1,NA,1,0,166,3,18.5,8.81,163,2
+25/02/09,IK Pathan,0,0,0,0,0,2,v New Zealand,Christchurch,11,162,8,20,8.1,NA,1,0,166,3,18.5,8.81,163,2
+25/02/09,YK Pathan,0,0,0,0,0,2,v New Zealand,Christchurch,11,162,8,20,8.1,NA,1,0,166,3,18.5,8.81,163,2
+25/02/09,SK Raina,0,0,0,0,0,2,v New Zealand,Christchurch,11,162,8,20,8.1,NA,1,0,166,3,18.5,8.81,163,2
+25/02/09,V Sehwag,0,0,0,0,0,2,v New Zealand,Christchurch,11,162,8,20,8.1,NA,1,0,166,3,18.5,8.81,163,2
+25/02/09,I Sharma,0,0,0,0,0,2,v New Zealand,Christchurch,11,162,8,20,8.1,NA,1,0,166,3,18.5,8.81,163,2
+25/02/09,RG Sharma,0,0,0,0,0,2,v New Zealand,Christchurch,11,162,8,20,8.1,NA,1,0,166,3,18.5,8.81,163,2
+25/02/09,Yuvraj Singh,0,0,0,0,0,2,v New Zealand,Christchurch,11,162,8,20,8.1,NA,1,0,166,3,18.5,8.81,163,2
+27/02/09,MS Dhoni,1,1,0,1,0,2,v New Zealand,Wellington,12,149,6,20,7.45,NA,1,0,150,5,20,7.5,150,2
+27/02/09,G Gambhir,0,0,0,0,0,2,v New Zealand,Wellington,12,149,6,20,7.45,NA,1,0,150,5,20,7.5,150,2
+27/02/09,Harbhajan Singh,0,0,0,0,0,2,v New Zealand,Wellington,12,149,6,20,7.45,NA,1,0,150,5,20,7.5,150,2
+27/02/09,RA Jadeja,0,0,0,0,0,2,v New Zealand,Wellington,12,149,6,20,7.45,NA,1,0,150,5,20,7.5,150,2
+27/02/09,Z Khan,0,0,0,0,0,2,v New Zealand,Wellington,12,149,6,20,7.45,NA,1,0,150,5,20,7.5,150,2
+27/02/09,IK Pathan,1,1,0,0,1,2,v New Zealand,Wellington,12,149,6,20,7.45,NA,1,0,150,5,20,7.5,150,2
+27/02/09,YK Pathan,0,0,0,0,0,2,v New Zealand,Wellington,12,149,6,20,7.45,NA,1,0,150,5,20,7.5,150,2
+27/02/09,SK Raina,0,0,0,0,0,2,v New Zealand,Wellington,12,149,6,20,7.45,NA,1,0,150,5,20,7.5,150,2
+27/02/09,V Sehwag,0,0,0,0,0,2,v New Zealand,Wellington,12,149,6,20,7.45,NA,1,0,150,5,20,7.5,150,2
+27/02/09,I Sharma,0,0,0,0,0,2,v New Zealand,Wellington,12,149,6,20,7.45,NA,1,0,150,5,20,7.5,150,2
+27/02/09,Yuvraj Singh,0,0,0,0,0,2,v New Zealand,Wellington,12,149,6,20,7.45,NA,1,0,150,5,20,7.5,150,2
+06/06/09,MS Dhoni,2,1,1,1,0,2,v Bangladesh,Nottingham,13,180,5,20,9,NA,1,1,155,8,20,7.75,181,2
+06/06/09,G Gambhir,1,1,0,0,1,2,v Bangladesh,Nottingham,13,180,5,20,9,NA,1,1,155,8,20,7.75,181,2
+06/06/09,Harbhajan Singh,1,1,0,0,1,2,v Bangladesh,Nottingham,13,180,5,20,9,NA,1,1,155,8,20,7.75,181,2
+06/06/09,Z Khan,0,0,0,0,0,2,v Bangladesh,Nottingham,13,180,5,20,9,NA,1,1,155,8,20,7.75,181,2
+06/06/09,PP Ojha,1,1,0,0,1,2,v Bangladesh,Nottingham,13,180,5,20,9,NA,1,1,155,8,20,7.75,181,2
+06/06/09,IK Pathan,0,0,0,0,0,2,v Bangladesh,Nottingham,13,180,5,20,9,NA,1,1,155,8,20,7.75,181,2
+06/06/09,YK Pathan,0,0,0,0,0,2,v Bangladesh,Nottingham,13,180,5,20,9,NA,1,1,155,8,20,7.75,181,2
+06/06/09,SK Raina,0,0,0,0,0,2,v Bangladesh,Nottingham,13,180,5,20,9,NA,1,1,155,8,20,7.75,181,2
+06/06/09,I Sharma,0,0,0,0,0,2,v Bangladesh,Nottingham,13,180,5,20,9,NA,1,1,155,8,20,7.75,181,2
+06/06/09,RG Sharma,0,0,0,0,0,2,v Bangladesh,Nottingham,13,180,5,20,9,NA,1,1,155,8,20,7.75,181,2
+06/06/09,Yuvraj Singh,2,2,0,0,2,2,v Bangladesh,Nottingham,13,180,5,20,9,NA,1,1,155,8,20,7.75,181,2
+10/06/09,MS Dhoni,1,1,0,1,0,1,v Ireland,Nottingham,14,113,2,15.3,7.29,113,2,1,112,8,18,6.22,NA,1
+10/06/09,G Gambhir,0,0,0,0,0,1,v Ireland,Nottingham,14,113,2,15.3,7.29,113,2,1,112,8,18,6.22,NA,1
+10/06/09,Harbhajan Singh,0,0,0,0,0,1,v Ireland,Nottingham,14,113,2,15.3,7.29,113,2,1,112,8,18,6.22,NA,1
+10/06/09,Z Khan,0,0,0,0,0,1,v Ireland,Nottingham,14,113,2,15.3,7.29,113,2,1,112,8,18,6.22,NA,1
+10/06/09,PP Ojha,0,0,0,0,0,1,v Ireland,Nottingham,14,113,2,15.3,7.29,113,2,1,112,8,18,6.22,NA,1
+10/06/09,IK Pathan,0,0,0,0,0,1,v Ireland,Nottingham,14,113,2,15.3,7.29,113,2,1,112,8,18,6.22,NA,1
+10/06/09,YK Pathan,2,2,0,0,2,1,v Ireland,Nottingham,14,113,2,15.3,7.29,113,2,1,112,8,18,6.22,NA,1
+10/06/09,SK Raina,0,0,0,0,0,1,v Ireland,Nottingham,14,113,2,15.3,7.29,113,2,1,112,8,18,6.22,NA,1
+10/06/09,I Sharma,0,0,0,0,0,1,v Ireland,Nottingham,14,113,2,15.3,7.29,113,2,1,112,8,18,6.22,NA,1
+10/06/09,RG Sharma,0,0,0,0,0,1,v Ireland,Nottingham,14,113,2,15.3,7.29,113,2,1,112,8,18,6.22,NA,1
+10/06/09,Yuvraj Singh,1,1,0,0,1,1,v Ireland,Nottingham,14,113,2,15.3,7.29,113,2,1,112,8,18,6.22,NA,1
+12/06/09,MS Dhoni,0,0,0,0,0,2,v West Indies,Lord's,15,153,7,20,7.65,NA,1,0,156,3,18.4,8.35,154,2
+12/06/09,G Gambhir,0,0,0,0,0,2,v West Indies,Lord's,15,153,7,20,7.65,NA,1,0,156,3,18.4,8.35,154,2
+12/06/09,Harbhajan Singh,0,0,0,0,0,2,v West Indies,Lord's,15,153,7,20,7.65,NA,1,0,156,3,18.4,8.35,154,2
+12/06/09,Z Khan,1,1,0,0,1,2,v West Indies,Lord's,15,153,7,20,7.65,NA,1,0,156,3,18.4,8.35,154,2
+12/06/09,PP Ojha,0,0,0,0,0,2,v West Indies,Lord's,15,153,7,20,7.65,NA,1,0,156,3,18.4,8.35,154,2
+12/06/09,IK Pathan,1,1,0,0,1,2,v West Indies,Lord's,15,153,7,20,7.65,NA,1,0,156,3,18.4,8.35,154,2
+12/06/09,YK Pathan,0,0,0,0,0,2,v West Indies,Lord's,15,153,7,20,7.65,NA,1,0,156,3,18.4,8.35,154,2
+12/06/09,SK Raina,0,0,0,0,0,2,v West Indies,Lord's,15,153,7,20,7.65,NA,1,0,156,3,18.4,8.35,154,2
+12/06/09,I Sharma,0,0,0,0,0,2,v West Indies,Lord's,15,153,7,20,7.65,NA,1,0,156,3,18.4,8.35,154,2
+12/06/09,RG Sharma,0,0,0,0,0,2,v West Indies,Lord's,15,153,7,20,7.65,NA,1,0,156,3,18.4,8.35,154,2
+12/06/09,Yuvraj Singh,1,1,0,0,1,2,v West Indies,Lord's,15,153,7,20,7.65,NA,1,0,156,3,18.4,8.35,154,2
+14/06/09,MS Dhoni,0,0,0,0,0,1,v England,Lord's,16,150,5,20,7.5,154,2,0,153,7,20,7.65,NA,1
+14/06/09,G Gambhir,0,0,0,0,0,1,v England,Lord's,16,150,5,20,7.5,154,2,0,153,7,20,7.65,NA,1
+14/06/09,Harbhajan Singh,1,1,0,0,1,1,v England,Lord's,16,150,5,20,7.5,154,2,0,153,7,20,7.65,NA,1
+14/06/09,RA Jadeja,1,1,0,0,1,1,v England,Lord's,16,150,5,20,7.5,154,2,0,153,7,20,7.65,NA,1
+14/06/09,Z Khan,0,0,0,0,0,1,v England,Lord's,16,150,5,20,7.5,154,2,0,153,7,20,7.65,NA,1
+14/06/09,YK Pathan,1,1,0,0,1,1,v England,Lord's,16,150,5,20,7.5,154,2,0,153,7,20,7.65,NA,1
+14/06/09,SK Raina,0,0,0,0,0,1,v England,Lord's,16,150,5,20,7.5,154,2,0,153,7,20,7.65,NA,1
+14/06/09,I Sharma,0,0,0,0,0,1,v England,Lord's,16,150,5,20,7.5,154,2,0,153,7,20,7.65,NA,1
+14/06/09,RG Sharma,0,0,0,0,0,1,v England,Lord's,16,150,5,20,7.5,154,2,0,153,7,20,7.65,NA,1
+14/06/09,RP Singh,0,0,0,0,0,1,v England,Lord's,16,150,5,20,7.5,154,2,0,153,7,20,7.65,NA,1
+14/06/09,Yuvraj Singh,0,0,0,0,0,1,v England,Lord's,16,150,5,20,7.5,154,2,0,153,7,20,7.65,NA,1
+16/06/09,MS Dhoni,1,0,1,0,0,1,v South Africa,Nottingham,17,118,8,20,5.9,131,2,0,130,5,20,6.5,NA,1
+16/06/09,G Gambhir,0,0,0,0,0,1,v South Africa,Nottingham,17,118,8,20,5.9,131,2,0,130,5,20,6.5,NA,1
+16/06/09,Harbhajan Singh,0,0,0,0,0,1,v South Africa,Nottingham,17,118,8,20,5.9,131,2,0,130,5,20,6.5,NA,1
+16/06/09,RA Jadeja,2,2,0,0,2,1,v South Africa,Nottingham,17,118,8,20,5.9,131,2,0,130,5,20,6.5,NA,1
+16/06/09,Z Khan,0,0,0,0,0,1,v South Africa,Nottingham,17,118,8,20,5.9,131,2,0,130,5,20,6.5,NA,1
+16/06/09,YK Pathan,0,0,0,0,0,1,v South Africa,Nottingham,17,118,8,20,5.9,131,2,0,130,5,20,6.5,NA,1
+16/06/09,SK Raina,0,0,0,0,0,1,v South Africa,Nottingham,17,118,8,20,5.9,131,2,0,130,5,20,6.5,NA,1
+16/06/09,I Sharma,0,0,0,0,0,1,v South Africa,Nottingham,17,118,8,20,5.9,131,2,0,130,5,20,6.5,NA,1
+16/06/09,RG Sharma,0,0,0,0,0,1,v South Africa,Nottingham,17,118,8,20,5.9,131,2,0,130,5,20,6.5,NA,1
+16/06/09,RP Singh,1,1,0,0,1,1,v South Africa,Nottingham,17,118,8,20,5.9,131,2,0,130,5,20,6.5,NA,1
+16/06/09,Yuvraj Singh,0,0,0,0,0,1,v South Africa,Nottingham,17,118,8,20,5.9,131,2,0,130,5,20,6.5,NA,1
+09/12/09,MS Dhoni,0,0,0,0,0,1,v Sri Lanka,Nagpur,18,186,9,20,9.3,216,2,0,215,5,20,10.75,NA,1
+09/12/09,AB Dinda,0,0,0,0,0,1,v Sri Lanka,Nagpur,18,186,9,20,9.3,216,2,0,215,5,20,10.75,NA,1
+09/12/09,G Gambhir,0,0,0,0,0,1,v Sri Lanka,Nagpur,18,186,9,20,9.3,216,2,0,215,5,20,10.75,NA,1
+09/12/09,A Nehra,0,0,0,0,0,1,v Sri Lanka,Nagpur,18,186,9,20,9.3,216,2,0,215,5,20,10.75,NA,1
+09/12/09,PP Ojha,0,0,0,0,0,1,v Sri Lanka,Nagpur,18,186,9,20,9.3,216,2,0,215,5,20,10.75,NA,1
+09/12/09,YK Pathan,0,0,0,0,0,1,v Sri Lanka,Nagpur,18,186,9,20,9.3,216,2,0,215,5,20,10.75,NA,1
+09/12/09,SK Raina,0,0,0,0,0,1,v Sri Lanka,Nagpur,18,186,9,20,9.3,216,2,0,215,5,20,10.75,NA,1
+09/12/09,V Sehwag,0,0,0,0,0,1,v Sri Lanka,Nagpur,18,186,9,20,9.3,216,2,0,215,5,20,10.75,NA,1
+09/12/09,I Sharma,1,1,0,0,1,1,v Sri Lanka,Nagpur,18,186,9,20,9.3,216,2,0,215,5,20,10.75,NA,1
+09/12/09,RG Sharma,0,0,0,0,0,1,v Sri Lanka,Nagpur,18,186,9,20,9.3,216,2,0,215,5,20,10.75,NA,1
+09/12/09,Yuvraj Singh,0,0,0,0,0,1,v Sri Lanka,Nagpur,18,186,9,20,9.3,216,2,0,215,5,20,10.75,NA,1
+12/12/09,MS Dhoni,0,0,0,0,0,1,v Sri Lanka,Mohali,19,211,4,19.1,11,207,2,1,206,7,20,10.3,NA,1
+12/12/09,G Gambhir,0,0,0,0,0,1,v Sri Lanka,Mohali,19,211,4,19.1,11,207,2,1,206,7,20,10.3,NA,1
+12/12/09,RA Jadeja,1,1,0,0,1,1,v Sri Lanka,Mohali,19,211,4,19.1,11,207,2,1,206,7,20,10.3,NA,1
+12/12/09,KD Karthik,1,1,0,0,1,1,v Sri Lanka,Mohali,19,211,4,19.1,11,207,2,1,206,7,20,10.3,NA,1
+12/12/09,A Nehra,1,1,0,0,1,1,v Sri Lanka,Mohali,19,211,4,19.1,11,207,2,1,206,7,20,10.3,NA,1
+12/12/09,YK Pathan,0,0,0,0,0,1,v Sri Lanka,Mohali,19,211,4,19.1,11,207,2,1,206,7,20,10.3,NA,1
+12/12/09,SK Raina,0,0,0,0,0,1,v Sri Lanka,Mohali,19,211,4,19.1,11,207,2,1,206,7,20,10.3,NA,1
+12/12/09,V Sehwag,0,0,0,0,0,1,v Sri Lanka,Mohali,19,211,4,19.1,11,207,2,1,206,7,20,10.3,NA,1
+12/12/09,I Sharma,0,0,0,0,0,1,v Sri Lanka,Mohali,19,211,4,19.1,11,207,2,1,206,7,20,10.3,NA,1
+12/12/09,S Tyagi,1,1,0,0,1,1,v Sri Lanka,Mohali,19,211,4,19.1,11,207,2,1,206,7,20,10.3,NA,1
+12/12/09,Yuvraj Singh,0,0,0,0,0,1,v Sri Lanka,Mohali,19,211,4,19.1,11,207,2,1,206,7,20,10.3,NA,1
+01/05/10,MS Dhoni,4,4,0,4,0,1,v Afghanistan,Gros Islet,20,116,3,14.5,7.82,116,2,1,115,8,20,5.75,NA,1
+01/05/10,G Gambhir,1,1,0,0,1,1,v Afghanistan,Gros Islet,20,116,3,14.5,7.82,116,2,1,115,8,20,5.75,NA,1
+01/05/10,Harbhajan Singh,0,0,0,0,0,1,v Afghanistan,Gros Islet,20,116,3,14.5,7.82,116,2,1,115,8,20,5.75,NA,1
+01/05/10,RA Jadeja,0,0,0,0,0,1,v Afghanistan,Gros Islet,20,116,3,14.5,7.82,116,2,1,115,8,20,5.75,NA,1
+01/05/10,Z Khan,1,1,0,0,1,1,v Afghanistan,Gros Islet,20,116,3,14.5,7.82,116,2,1,115,8,20,5.75,NA,1
+01/05/10,P Kumar,0,0,0,0,0,1,v Afghanistan,Gros Islet,20,116,3,14.5,7.82,116,2,1,115,8,20,5.75,NA,1
+01/05/10,A Nehra,1,1,0,0,1,1,v Afghanistan,Gros Islet,20,116,3,14.5,7.82,116,2,1,115,8,20,5.75,NA,1
+01/05/10,YK Pathan,0,0,0,0,0,1,v Afghanistan,Gros Islet,20,116,3,14.5,7.82,116,2,1,115,8,20,5.75,NA,1
+01/05/10,SK Raina,0,0,0,0,0,1,v Afghanistan,Gros Islet,20,116,3,14.5,7.82,116,2,1,115,8,20,5.75,NA,1
+01/05/10,M Vijay,0,0,0,0,0,1,v Afghanistan,Gros Islet,20,116,3,14.5,7.82,116,2,1,115,8,20,5.75,NA,1
+01/05/10,Yuvraj Singh,0,0,0,0,0,1,v Afghanistan,Gros Islet,20,116,3,14.5,7.82,116,2,1,115,8,20,5.75,NA,1
+02/05/10,PP Chawla,2,2,0,0,2,2,v South Africa,Gros Islet,21,186,5,20,9.3,NA,1,1,172,5,20,8.6,187,2
+02/05/10,MS Dhoni,0,0,0,0,0,2,v South Africa,Gros Islet,21,186,5,20,9.3,NA,1,1,172,5,20,8.6,187,2
+02/05/10,Harbhajan Singh,1,1,0,0,1,2,v South Africa,Gros Islet,21,186,5,20,9.3,NA,1,1,172,5,20,8.6,187,2
+02/05/10,RA Jadeja,1,1,0,0,1,2,v South Africa,Gros Islet,21,186,5,20,9.3,NA,1,1,172,5,20,8.6,187,2
+02/05/10,KD Karthik,0,0,0,0,0,2,v South Africa,Gros Islet,21,186,5,20,9.3,NA,1,1,172,5,20,8.6,187,2
+02/05/10,P Kumar,0,0,0,0,0,2,v South Africa,Gros Islet,21,186,5,20,9.3,NA,1,1,172,5,20,8.6,187,2
+02/05/10,A Nehra,0,0,0,0,0,2,v South Africa,Gros Islet,21,186,5,20,9.3,NA,1,1,172,5,20,8.6,187,2
+02/05/10,YK Pathan,0,0,0,0,0,2,v South Africa,Gros Islet,21,186,5,20,9.3,NA,1,1,172,5,20,8.6,187,2
+02/05/10,SK Raina,0,0,0,0,0,2,v South Africa,Gros Islet,21,186,5,20,9.3,NA,1,1,172,5,20,8.6,187,2
+02/05/10,M Vijay,0,0,0,0,0,2,v South Africa,Gros Islet,21,186,5,20,9.3,NA,1,1,172,5,20,8.6,187,2
+02/05/10,Yuvraj Singh,0,0,0,0,0,2,v South Africa,Gros Islet,21,186,5,20,9.3,NA,1,1,172,5,20,8.6,187,2
+07/05/10,MS Dhoni,2,1,1,1,0,1,v Australia,Bridgetown,22,135,10,17.4,7.64,185,2,0,184,5,20,9.2,NA,1
+07/05/10,G Gambhir,0,0,0,0,0,1,v Australia,Bridgetown,22,135,10,17.4,7.64,185,2,0,184,5,20,9.2,NA,1
+07/05/10,Harbhajan Singh,0,0,0,0,0,1,v Australia,Bridgetown,22,135,10,17.4,7.64,185,2,0,184,5,20,9.2,NA,1
+07/05/10,RA Jadeja,0,0,0,0,0,1,v Australia,Bridgetown,22,135,10,17.4,7.64,185,2,0,184,5,20,9.2,NA,1
+07/05/10,Z Khan,0,0,0,0,0,1,v Australia,Bridgetown,22,135,10,17.4,7.64,185,2,0,184,5,20,9.2,NA,1
+07/05/10,A Nehra,0,0,0,0,0,1,v Australia,Bridgetown,22,135,10,17.4,7.64,185,2,0,184,5,20,9.2,NA,1
+07/05/10,YK Pathan,0,0,0,0,0,1,v Australia,Bridgetown,22,135,10,17.4,7.64,185,2,0,184,5,20,9.2,NA,1
+07/05/10,SK Raina,0,0,0,0,0,1,v Australia,Bridgetown,22,135,10,17.4,7.64,185,2,0,184,5,20,9.2,NA,1
+07/05/10,RG Sharma,0,0,0,0,0,1,v Australia,Bridgetown,22,135,10,17.4,7.64,185,2,0,184,5,20,9.2,NA,1
+07/05/10,M Vijay,1,1,0,0,1,1,v Australia,Bridgetown,22,135,10,17.4,7.64,185,2,0,184,5,20,9.2,NA,1
+07/05/10,Yuvraj Singh,0,0,0,0,0,1,v Australia,Bridgetown,22,135,10,17.4,7.64,185,2,0,184,5,20,9.2,NA,1
+09/05/10,MS Dhoni,1,1,0,1,0,1,v West Indies,Bridgetown,23,155,9,20,7.75,170,2,0,169,6,20,8.45,NA,1
+09/05/10,G Gambhir,0,0,0,0,0,1,v West Indies,Bridgetown,23,155,9,20,7.75,170,2,0,169,6,20,8.45,NA,1
+09/05/10,Harbhajan Singh,0,0,0,0,0,1,v West Indies,Bridgetown,23,155,9,20,7.75,170,2,0,169,6,20,8.45,NA,1
+09/05/10,RA Jadeja,0,0,0,0,0,1,v West Indies,Bridgetown,23,155,9,20,7.75,170,2,0,169,6,20,8.45,NA,1
+09/05/10,Z Khan,0,0,0,0,0,1,v West Indies,Bridgetown,23,155,9,20,7.75,170,2,0,169,6,20,8.45,NA,1
+09/05/10,A Nehra,0,0,0,0,0,1,v West Indies,Bridgetown,23,155,9,20,7.75,170,2,0,169,6,20,8.45,NA,1
+09/05/10,YK Pathan,1,1,0,0,1,1,v West Indies,Bridgetown,23,155,9,20,7.75,170,2,0,169,6,20,8.45,NA,1
+09/05/10,SK Raina,0,0,0,0,0,1,v West Indies,Bridgetown,23,155,9,20,7.75,170,2,0,169,6,20,8.45,NA,1
+09/05/10,RG Sharma,2,2,0,0,2,1,v West Indies,Bridgetown,23,155,9,20,7.75,170,2,0,169,6,20,8.45,NA,1
+09/05/10,M Vijay,1,1,0,0,1,1,v West Indies,Bridgetown,23,155,9,20,7.75,170,2,0,169,6,20,8.45,NA,1
+09/05/10,Yuvraj Singh,0,0,0,0,0,1,v West Indies,Bridgetown,23,155,9,20,7.75,170,2,0,169,6,20,8.45,NA,1
+11/05/10,PP Chawla,0,0,0,0,0,2,v Sri Lanka,Gros Islet,24,163,5,20,8.15,NA,1,0,167,5,20,8.35,164,2
+11/05/10,MS Dhoni,0,0,0,0,0,2,v Sri Lanka,Gros Islet,24,163,5,20,8.15,NA,1,0,167,5,20,8.35,164,2
+11/05/10,G Gambhir,0,0,0,0,0,2,v Sri Lanka,Gros Islet,24,163,5,20,8.15,NA,1,0,167,5,20,8.35,164,2
+11/05/10,Harbhajan Singh,0,0,0,0,0,2,v Sri Lanka,Gros Islet,24,163,5,20,8.15,NA,1,0,167,5,20,8.35,164,2
+11/05/10,KD Karthik,1,1,0,0,1,2,v Sri Lanka,Gros Islet,24,163,5,20,8.15,NA,1,0,167,5,20,8.35,164,2
+11/05/10,A Nehra,0,0,0,0,0,2,v Sri Lanka,Gros Islet,24,163,5,20,8.15,NA,1,0,167,5,20,8.35,164,2
+11/05/10,YK Pathan,1,1,0,0,1,2,v Sri Lanka,Gros Islet,24,163,5,20,8.15,NA,1,0,167,5,20,8.35,164,2
+11/05/10,SK Raina,0,0,0,0,0,2,v Sri Lanka,Gros Islet,24,163,5,20,8.15,NA,1,0,167,5,20,8.35,164,2
+11/05/10,RG Sharma,0,0,0,0,0,2,v Sri Lanka,Gros Islet,24,163,5,20,8.15,NA,1,0,167,5,20,8.35,164,2
+11/05/10,R Vinay Kumar,0,0,0,0,0,2,v Sri Lanka,Gros Islet,24,163,5,20,8.15,NA,1,0,167,5,20,8.35,164,2
+11/05/10,Yuvraj Singh,1,1,0,0,1,2,v Sri Lanka,Gros Islet,24,163,5,20,8.15,NA,1,0,167,5,20,8.35,164,2
+12/06/10,R Ashwin,0,0,0,0,0,1,v Zimbabwe,Harare,25,112,4,15,7.46,112,2,1,111,9,20,5.55,NA,1
+12/06/10,PP Chawla,0,0,0,0,0,1,v Zimbabwe,Harare,25,112,4,15,7.46,112,2,1,111,9,20,5.55,NA,1
+12/06/10,AB Dinda,0,0,0,0,0,1,v Zimbabwe,Harare,25,112,4,15,7.46,112,2,1,111,9,20,5.55,NA,1
+12/06/10,V Kohli,0,0,0,0,0,1,v Zimbabwe,Harare,25,112,4,15,7.46,112,2,1,111,9,20,5.55,NA,1
+12/06/10,NV Ojha,0,0,0,0,0,1,v Zimbabwe,Harare,25,112,4,15,7.46,112,2,1,111,9,20,5.55,NA,1
+12/06/10,PP Ojha,0,0,0,0,0,1,v Zimbabwe,Harare,25,112,4,15,7.46,112,2,1,111,9,20,5.55,NA,1
+12/06/10,YK Pathan,0,0,0,0,0,1,v Zimbabwe,Harare,25,112,4,15,7.46,112,2,1,111,9,20,5.55,NA,1
+12/06/10,SK Raina,1,1,0,0,1,1,v Zimbabwe,Harare,25,112,4,15,7.46,112,2,1,111,9,20,5.55,NA,1
+12/06/10,RG Sharma,1,1,0,0,1,1,v Zimbabwe,Harare,25,112,4,15,7.46,112,2,1,111,9,20,5.55,NA,1
+12/06/10,M Vijay,1,1,0,0,1,1,v Zimbabwe,Harare,25,112,4,15,7.46,112,2,1,111,9,20,5.55,NA,1
+12/06/10,R Vinay Kumar,0,0,0,0,0,1,v Zimbabwe,Harare,25,112,4,15,7.46,112,2,1,111,9,20,5.55,NA,1
+13/06/10,R Ashwin,0,0,0,0,0,1,v Zimbabwe,Harare,26,144,3,18,8,141,2,1,140,5,20,7,NA,1
+13/06/10,AB Dinda,0,0,0,0,0,1,v Zimbabwe,Harare,26,144,3,18,8,141,2,1,140,5,20,7,NA,1
+13/06/10,V Kohli,0,0,0,0,0,1,v Zimbabwe,Harare,26,144,3,18,8,141,2,1,140,5,20,7,NA,1
+13/06/10,A Mishra,0,0,0,0,0,1,v Zimbabwe,Harare,26,144,3,18,8,141,2,1,140,5,20,7,NA,1
+13/06/10,NV Ojha,0,0,0,0,0,1,v Zimbabwe,Harare,26,144,3,18,8,141,2,1,140,5,20,7,NA,1
+13/06/10,PP Ojha,0,0,0,0,0,1,v Zimbabwe,Harare,26,144,3,18,8,141,2,1,140,5,20,7,NA,1
+13/06/10,YK Pathan,1,1,0,0,1,1,v Zimbabwe,Harare,26,144,3,18,8,141,2,1,140,5,20,7,NA,1
+13/06/10,SK Raina,1,1,0,0,1,1,v Zimbabwe,Harare,26,144,3,18,8,141,2,1,140,5,20,7,NA,1
+13/06/10,RG Sharma,1,1,0,0,1,1,v Zimbabwe,Harare,26,144,3,18,8,141,2,1,140,5,20,7,NA,1
+13/06/10,M Vijay,0,0,0,0,0,1,v Zimbabwe,Harare,26,144,3,18,8,141,2,1,140,5,20,7,NA,1
+13/06/10,R Vinay Kumar,0,0,0,0,0,1,v Zimbabwe,Harare,26,144,3,18,8,141,2,1,140,5,20,7,NA,1
+09/01/11,R Ashwin,0,0,0,0,0,2,v South Africa,Durban,27,168,6,20,8.4,NA,1,1,147,9,20,7.35,169,2
+09/01/11,MS Dhoni,0,0,0,0,0,2,v South Africa,Durban,27,168,6,20,8.4,NA,1,1,147,9,20,7.35,169,2
+09/01/11,V Kohli,1,1,0,0,1,2,v South Africa,Durban,27,168,6,20,8.4,NA,1,1,147,9,20,7.35,169,2
+09/01/11,P Kumar,1,1,0,0,1,2,v South Africa,Durban,27,168,6,20,8.4,NA,1,1,147,9,20,7.35,169,2
+09/01/11,A Nehra,1,1,0,0,1,2,v South Africa,Durban,27,168,6,20,8.4,NA,1,1,147,9,20,7.35,169,2
+09/01/11,MM Patel,0,0,0,0,0,2,v South Africa,Durban,27,168,6,20,8.4,NA,1,1,147,9,20,7.35,169,2
+09/01/11,YK Pathan,1,1,0,0,1,2,v South Africa,Durban,27,168,6,20,8.4,NA,1,1,147,9,20,7.35,169,2
+09/01/11,SK Raina,0,0,0,0,0,2,v South Africa,Durban,27,168,6,20,8.4,NA,1,1,147,9,20,7.35,169,2
+09/01/11,RG Sharma,1,1,0,0,1,2,v South Africa,Durban,27,168,6,20,8.4,NA,1,1,147,9,20,7.35,169,2
+09/01/11,M Vijay,0,0,0,0,0,2,v South Africa,Durban,27,168,6,20,8.4,NA,1,1,147,9,20,7.35,169,2
+09/01/11,Yuvraj Singh,0,0,0,0,0,2,v South Africa,Durban,27,168,6,20,8.4,NA,1,1,147,9,20,7.35,169,2
+04/06/11,R Ashwin,0,0,0,0,0,2,v West Indies,Port of Spain,28,159,6,20,7.95,NA,1,1,143,5,20,7.15,160,2
+04/06/11,S Badrinath,0,0,0,0,0,2,v West Indies,Port of Spain,28,159,6,20,7.95,NA,1,1,143,5,20,7.15,160,2
+04/06/11,S Dhawan,0,0,0,0,0,2,v West Indies,Port of Spain,28,159,6,20,7.95,NA,1,1,143,5,20,7.15,160,2
+04/06/11,Harbhajan Singh,0,0,0,0,0,2,v West Indies,Port of Spain,28,159,6,20,7.95,NA,1,1,143,5,20,7.15,160,2
+04/06/11,V Kohli,2,2,0,0,2,2,v West Indies,Port of Spain,28,159,6,20,7.95,NA,1,1,143,5,20,7.15,160,2
+04/06/11,P Kumar,0,0,0,0,0,2,v West Indies,Port of Spain,28,159,6,20,7.95,NA,1,1,143,5,20,7.15,160,2
+04/06/11,MM Patel,0,0,0,0,0,2,v West Indies,Port of Spain,28,159,6,20,7.95,NA,1,1,143,5,20,7.15,160,2
+04/06/11,PA Patel,1,1,0,1,0,2,v West Indies,Port of Spain,28,159,6,20,7.95,NA,1,1,143,5,20,7.15,160,2
+04/06/11,YK Pathan,0,0,0,0,0,2,v West Indies,Port of Spain,28,159,6,20,7.95,NA,1,1,143,5,20,7.15,160,2
+04/06/11,SK Raina,0,0,0,0,0,2,v West Indies,Port of Spain,28,159,6,20,7.95,NA,1,1,143,5,20,7.15,160,2
+04/06/11,RG Sharma,0,0,0,0,0,2,v West Indies,Port of Spain,28,159,6,20,7.95,NA,1,1,143,5,20,7.15,160,2
+31/08/11,R Ashwin,0,0,0,0,0,2,v England,Manchester,29,165,10,19.4,8.38,NA,1,0,169,4,19.3,8.66,166,2
+31/08/11,MS Dhoni,1,0,1,0,0,2,v England,Manchester,29,165,10,19.4,8.38,NA,1,0,169,4,19.3,8.66,166,2
+31/08/11,R Dravid,0,0,0,0,0,2,v England,Manchester,29,165,10,19.4,8.38,NA,1,0,169,4,19.3,8.66,166,2
+31/08/11,V Kohli,0,0,0,0,0,2,v England,Manchester,29,165,10,19.4,8.38,NA,1,0,169,4,19.3,8.66,166,2
+31/08/11,P Kumar,0,0,0,0,0,2,v England,Manchester,29,165,10,19.4,8.38,NA,1,0,169,4,19.3,8.66,166,2
+31/08/11,MM Patel,0,0,0,0,0,2,v England,Manchester,29,165,10,19.4,8.38,NA,1,0,169,4,19.3,8.66,166,2
+31/08/11,PA Patel,0,0,0,0,0,2,v England,Manchester,29,165,10,19.4,8.38,NA,1,0,169,4,19.3,8.66,166,2
+31/08/11,AM Rahane,0,0,0,0,0,2,v England,Manchester,29,165,10,19.4,8.38,NA,1,0,169,4,19.3,8.66,166,2
+31/08/11,SK Raina,1,1,0,0,1,2,v England,Manchester,29,165,10,19.4,8.38,NA,1,0,169,4,19.3,8.66,166,2
+31/08/11,RG Sharma,1,1,0,0,1,2,v England,Manchester,29,165,10,19.4,8.38,NA,1,0,169,4,19.3,8.66,166,2
+31/08/11,R Vinay Kumar,0,0,0,0,0,2,v England,Manchester,29,165,10,19.4,8.38,NA,1,0,169,4,19.3,8.66,166,2
+29/10/11,R Ashwin,0,0,0,0,0,2,v England,Kolkata,30,120,9,20,6,NA,1,0,121,4,18.4,6.48,121,2
+29/10/11,MS Dhoni,0,0,0,0,0,2,v England,Kolkata,30,120,9,20,6,NA,1,0,121,4,18.4,6.48,121,2
+29/10/11,RA Jadeja,0,0,0,0,0,2,v England,Kolkata,30,120,9,20,6,NA,1,0,121,4,18.4,6.48,121,2
+29/10/11,V Kohli,0,0,0,0,0,2,v England,Kolkata,30,120,9,20,6,NA,1,0,121,4,18.4,6.48,121,2
+29/10/11,P Kumar,0,0,0,0,0,2,v England,Kolkata,30,120,9,20,6,NA,1,0,121,4,18.4,6.48,121,2
+29/10/11,YK Pathan,0,0,0,0,0,2,v England,Kolkata,30,120,9,20,6,NA,1,0,121,4,18.4,6.48,121,2
+29/10/11,AM Rahane,1,1,0,0,1,2,v England,Kolkata,30,120,9,20,6,NA,1,0,121,4,18.4,6.48,121,2
+29/10/11,SK Raina,0,0,0,0,0,2,v England,Kolkata,30,120,9,20,6,NA,1,0,121,4,18.4,6.48,121,2
+29/10/11,MK Tiwary,2,2,0,0,2,2,v England,Kolkata,30,120,9,20,6,NA,1,0,121,4,18.4,6.48,121,2
+29/10/11,RV Uthappa,0,0,0,0,0,2,v England,Kolkata,30,120,9,20,6,NA,1,0,121,4,18.4,6.48,121,2
+29/10/11,R Vinay Kumar,0,0,0,0,0,2,v England,Kolkata,30,120,9,20,6,NA,1,0,121,4,18.4,6.48,121,2
+01/02/12,R Ashwin,0,0,0,0,0,1,v Australia,Sydney,31,140,6,20,7,172,2,0,171,4,20,8.55,NA,1
+01/02/12,MS Dhoni,0,0,0,0,0,1,v Australia,Sydney,31,140,6,20,7,172,2,0,171,4,20,8.55,NA,1
+01/02/12,G Gambhir,0,0,0,0,0,1,v Australia,Sydney,31,140,6,20,7,172,2,0,171,4,20,8.55,NA,1
+01/02/12,RA Jadeja,0,0,0,0,0,1,v Australia,Sydney,31,140,6,20,7,172,2,0,171,4,20,8.55,NA,1
+01/02/12,V Kohli,0,0,0,0,0,1,v Australia,Sydney,31,140,6,20,7,172,2,0,171,4,20,8.55,NA,1
+01/02/12,P Kumar,0,0,0,0,0,1,v Australia,Sydney,31,140,6,20,7,172,2,0,171,4,20,8.55,NA,1
+01/02/12,SK Raina,2,2,0,0,2,1,v Australia,Sydney,31,140,6,20,7,172,2,0,171,4,20,8.55,NA,1
+01/02/12,V Sehwag,0,0,0,0,0,1,v Australia,Sydney,31,140,6,20,7,172,2,0,171,4,20,8.55,NA,1
+01/02/12,R Sharma,0,0,0,0,0,1,v Australia,Sydney,31,140,6,20,7,172,2,0,171,4,20,8.55,NA,1
+01/02/12,RG Sharma,0,0,0,0,0,1,v Australia,Sydney,31,140,6,20,7,172,2,0,171,4,20,8.55,NA,1
+01/02/12,R Vinay Kumar,0,0,0,0,0,1,v Australia,Sydney,31,140,6,20,7,172,2,0,171,4,20,8.55,NA,1
+03/02/12,R Ashwin,0,0,0,0,0,1,v Australia,Melbourne,32,135,2,19.4,6.86,132,2,1,131,10,19.4,6.66,NA,1
+03/02/12,MS Dhoni,3,2,1,2,0,1,v Australia,Melbourne,32,135,2,19.4,6.86,132,2,1,131,10,19.4,6.66,NA,1
+03/02/12,G Gambhir,1,1,0,0,1,1,v Australia,Melbourne,32,135,2,19.4,6.86,132,2,1,131,10,19.4,6.66,NA,1
+03/02/12,RA Jadeja,1,1,0,0,1,1,v Australia,Melbourne,32,135,2,19.4,6.86,132,2,1,131,10,19.4,6.66,NA,1
+03/02/12,V Kohli,0,0,0,0,0,1,v Australia,Melbourne,32,135,2,19.4,6.86,132,2,1,131,10,19.4,6.66,NA,1
+03/02/12,P Kumar,0,0,0,0,0,1,v Australia,Melbourne,32,135,2,19.4,6.86,132,2,1,131,10,19.4,6.66,NA,1
+03/02/12,SK Raina,0,0,0,0,0,1,v Australia,Melbourne,32,135,2,19.4,6.86,132,2,1,131,10,19.4,6.66,NA,1
+03/02/12,V Sehwag,0,0,0,0,0,1,v Australia,Melbourne,32,135,2,19.4,6.86,132,2,1,131,10,19.4,6.66,NA,1
+03/02/12,R Sharma,0,0,0,0,0,1,v Australia,Melbourne,32,135,2,19.4,6.86,132,2,1,131,10,19.4,6.66,NA,1
+03/02/12,RG Sharma,0,0,0,0,0,1,v Australia,Melbourne,32,135,2,19.4,6.86,132,2,1,131,10,19.4,6.66,NA,1
+03/02/12,R Vinay Kumar,0,0,0,0,0,1,v Australia,Melbourne,32,135,2,19.4,6.86,132,2,1,131,10,19.4,6.66,NA,1
+30/03/12,R Ashwin,0,0,0,0,0,1,v South Africa,Johannesburg,33,71,0,7.5,9.06,83,2,0,219,4,20,10.95,NA,1
+30/03/12,MS Dhoni,0,0,0,0,0,1,v South Africa,Johannesburg,33,71,0,7.5,9.06,83,2,0,219,4,20,10.95,NA,1
+30/03/12,G Gambhir,0,0,0,0,0,1,v South Africa,Johannesburg,33,71,0,7.5,9.06,83,2,0,219,4,20,10.95,NA,1
+30/03/12,V Kohli,0,0,0,0,0,1,v South Africa,Johannesburg,33,71,0,7.5,9.06,83,2,0,219,4,20,10.95,NA,1
+30/03/12,P Kumar,0,0,0,0,0,1,v South Africa,Johannesburg,33,71,0,7.5,9.06,83,2,0,219,4,20,10.95,NA,1
+30/03/12,IK Pathan,0,0,0,0,0,1,v South Africa,Johannesburg,33,71,0,7.5,9.06,83,2,0,219,4,20,10.95,NA,1
+30/03/12,YK Pathan,0,0,0,0,0,1,v South Africa,Johannesburg,33,71,0,7.5,9.06,83,2,0,219,4,20,10.95,NA,1
+30/03/12,SK Raina,0,0,0,0,0,1,v South Africa,Johannesburg,33,71,0,7.5,9.06,83,2,0,219,4,20,10.95,NA,1
+30/03/12,RG Sharma,3,3,0,0,3,1,v South Africa,Johannesburg,33,71,0,7.5,9.06,83,2,0,219,4,20,10.95,NA,1
+30/03/12,RV Uthappa,0,0,0,0,0,1,v South Africa,Johannesburg,33,71,0,7.5,9.06,83,2,0,219,4,20,10.95,NA,1
+30/03/12,R Vinay Kumar,0,0,0,0,0,1,v South Africa,Johannesburg,33,71,0,7.5,9.06,83,2,0,219,4,20,10.95,NA,1
+07/08/12,R Ashwin,1,1,0,0,1,2,v Sri Lanka,Pallekele,34,155,3,20,7.75,NA,1,1,116,10,18,6.44,156,2
+07/08/12,MS Dhoni,2,2,0,2,0,2,v Sri Lanka,Pallekele,34,155,3,20,7.75,NA,1,1,116,10,18,6.44,156,2
+07/08/12,AB Dinda,0,0,0,0,0,2,v Sri Lanka,Pallekele,34,155,3,20,7.75,NA,1,1,116,10,18,6.44,156,2
+07/08/12,G Gambhir,0,0,0,0,0,2,v Sri Lanka,Pallekele,34,155,3,20,7.75,NA,1,1,116,10,18,6.44,156,2
+07/08/12,V Kohli,1,1,0,0,1,2,v Sri Lanka,Pallekele,34,155,3,20,7.75,NA,1,1,116,10,18,6.44,156,2
+07/08/12,IK Pathan,0,0,0,0,0,2,v Sri Lanka,Pallekele,34,155,3,20,7.75,NA,1,1,116,10,18,6.44,156,2
+07/08/12,AM Rahane,1,1,0,0,1,2,v Sri Lanka,Pallekele,34,155,3,20,7.75,NA,1,1,116,10,18,6.44,156,2
+07/08/12,SK Raina,1,1,0,0,1,2,v Sri Lanka,Pallekele,34,155,3,20,7.75,NA,1,1,116,10,18,6.44,156,2
+07/08/12,RG Sharma,0,0,0,0,0,2,v Sri Lanka,Pallekele,34,155,3,20,7.75,NA,1,1,116,10,18,6.44,156,2
+07/08/12,MK Tiwary,0,0,0,0,0,2,v Sri Lanka,Pallekele,34,155,3,20,7.75,NA,1,1,116,10,18,6.44,156,2
+07/08/12,UT Yadav,0,0,0,0,0,2,v Sri Lanka,Pallekele,34,155,3,20,7.75,NA,1,1,116,10,18,6.44,156,2
+11/09/12,R Ashwin,1,1,0,0,1,1,v New Zealand,Chennai,35,166,4,20,8.3,168,2,0,167,5,20,8.35,NA,1
+11/09/12,L Balaji,0,0,0,0,0,1,v New Zealand,Chennai,35,166,4,20,8.3,168,2,0,167,5,20,8.35,NA,1
+11/09/12,MS Dhoni,0,0,0,0,0,1,v New Zealand,Chennai,35,166,4,20,8.3,168,2,0,167,5,20,8.35,NA,1
+11/09/12,G Gambhir,0,0,0,0,0,1,v New Zealand,Chennai,35,166,4,20,8.3,168,2,0,167,5,20,8.35,NA,1
+11/09/12,Z Khan,0,0,0,0,0,1,v New Zealand,Chennai,35,166,4,20,8.3,168,2,0,167,5,20,8.35,NA,1
+11/09/12,V Kohli,0,0,0,0,0,1,v New Zealand,Chennai,35,166,4,20,8.3,168,2,0,167,5,20,8.35,NA,1
+11/09/12,IK Pathan,0,0,0,0,0,1,v New Zealand,Chennai,35,166,4,20,8.3,168,2,0,167,5,20,8.35,NA,1
+11/09/12,SK Raina,0,0,0,0,0,1,v New Zealand,Chennai,35,166,4,20,8.3,168,2,0,167,5,20,8.35,NA,1
+11/09/12,RG Sharma,0,0,0,0,0,1,v New Zealand,Chennai,35,166,4,20,8.3,168,2,0,167,5,20,8.35,NA,1
+11/09/12,MK Tiwary,0,0,0,0,0,1,v New Zealand,Chennai,35,166,4,20,8.3,168,2,0,167,5,20,8.35,NA,1
+11/09/12,Yuvraj Singh,1,1,0,0,1,1,v New Zealand,Chennai,35,166,4,20,8.3,168,2,0,167,5,20,8.35,NA,1
+19/09/12,R Ashwin,1,1,0,0,1,2,v Afghanistan,Colombo (RPS),36,159,5,20,7.95,NA,1,1,136,10,19.3,6.97,160,2
+19/09/12,L Balaji,0,0,0,0,0,2,v Afghanistan,Colombo (RPS),36,159,5,20,7.95,NA,1,1,136,10,19.3,6.97,160,2
+19/09/12,MS Dhoni,1,1,0,1,0,2,v Afghanistan,Colombo (RPS),36,159,5,20,7.95,NA,1,1,136,10,19.3,6.97,160,2
+19/09/12,G Gambhir,1,1,0,0,1,2,v Afghanistan,Colombo (RPS),36,159,5,20,7.95,NA,1,1,136,10,19.3,6.97,160,2
+19/09/12,Z Khan,0,0,0,0,0,2,v Afghanistan,Colombo (RPS),36,159,5,20,7.95,NA,1,1,136,10,19.3,6.97,160,2
+19/09/12,V Kohli,0,0,0,0,0,2,v Afghanistan,Colombo (RPS),36,159,5,20,7.95,NA,1,1,136,10,19.3,6.97,160,2
+19/09/12,IK Pathan,0,0,0,0,0,2,v Afghanistan,Colombo (RPS),36,159,5,20,7.95,NA,1,1,136,10,19.3,6.97,160,2
+19/09/12,SK Raina,1,1,0,0,1,2,v Afghanistan,Colombo (RPS),36,159,5,20,7.95,NA,1,1,136,10,19.3,6.97,160,2
+19/09/12,V Sehwag,0,0,0,0,0,2,v Afghanistan,Colombo (RPS),36,159,5,20,7.95,NA,1,1,136,10,19.3,6.97,160,2
+19/09/12,RG Sharma,1,1,0,0,1,2,v Afghanistan,Colombo (RPS),36,159,5,20,7.95,NA,1,1,136,10,19.3,6.97,160,2
+19/09/12,Yuvraj Singh,1,1,0,0,1,2,v Afghanistan,Colombo (RPS),36,159,5,20,7.95,NA,1,1,136,10,19.3,6.97,160,2
+23/09/12,L Balaji,0,0,0,0,0,2,v England,Colombo (RPS),37,170,4,20,8.5,NA,1,1,80,10,14.4,5.45,171,2
+23/09/12,PP Chawla,0,0,0,0,0,2,v England,Colombo (RPS),37,170,4,20,8.5,NA,1,1,80,10,14.4,5.45,171,2
+23/09/12,MS Dhoni,1,0,1,0,0,2,v England,Colombo (RPS),37,170,4,20,8.5,NA,1,1,80,10,14.4,5.45,171,2
+23/09/12,AB Dinda,0,0,0,0,0,2,v England,Colombo (RPS),37,170,4,20,8.5,NA,1,1,80,10,14.4,5.45,171,2
+23/09/12,G Gambhir,2,2,0,0,2,2,v England,Colombo (RPS),37,170,4,20,8.5,NA,1,1,80,10,14.4,5.45,171,2
+23/09/12,Harbhajan Singh,0,0,0,0,0,2,v England,Colombo (RPS),37,170,4,20,8.5,NA,1,1,80,10,14.4,5.45,171,2
+23/09/12,V Kohli,1,1,0,0,1,2,v England,Colombo (RPS),37,170,4,20,8.5,NA,1,1,80,10,14.4,5.45,171,2
+23/09/12,IK Pathan,0,0,0,0,0,2,v England,Colombo (RPS),37,170,4,20,8.5,NA,1,1,80,10,14.4,5.45,171,2
+23/09/12,SK Raina,0,0,0,0,0,2,v England,Colombo (RPS),37,170,4,20,8.5,NA,1,1,80,10,14.4,5.45,171,2
+23/09/12,RG Sharma,0,0,0,0,0,2,v England,Colombo (RPS),37,170,4,20,8.5,NA,1,1,80,10,14.4,5.45,171,2
+23/09/12,Yuvraj Singh,0,0,0,0,0,2,v England,Colombo (RPS),37,170,4,20,8.5,NA,1,1,80,10,14.4,5.45,171,2
+28/09/12,R Ashwin,0,0,0,0,0,2,v Australia,Colombo (RPS),38,140,7,20,7,NA,1,0,141,1,14.5,9.5,141,2
+28/09/12,PP Chawla,0,0,0,0,0,2,v Australia,Colombo (RPS),38,140,7,20,7,NA,1,0,141,1,14.5,9.5,141,2
+28/09/12,MS Dhoni,0,0,0,0,0,2,v Australia,Colombo (RPS),38,140,7,20,7,NA,1,0,141,1,14.5,9.5,141,2
+28/09/12,G Gambhir,0,0,0,0,0,2,v Australia,Colombo (RPS),38,140,7,20,7,NA,1,0,141,1,14.5,9.5,141,2
+28/09/12,Harbhajan Singh,0,0,0,0,0,2,v Australia,Colombo (RPS),38,140,7,20,7,NA,1,0,141,1,14.5,9.5,141,2
+28/09/12,Z Khan,0,0,0,0,0,2,v Australia,Colombo (RPS),38,140,7,20,7,NA,1,0,141,1,14.5,9.5,141,2
+28/09/12,V Kohli,0,0,0,0,0,2,v Australia,Colombo (RPS),38,140,7,20,7,NA,1,0,141,1,14.5,9.5,141,2
+28/09/12,IK Pathan,0,0,0,0,0,2,v Australia,Colombo (RPS),38,140,7,20,7,NA,1,0,141,1,14.5,9.5,141,2
+28/09/12,SK Raina,0,0,0,0,0,2,v Australia,Colombo (RPS),38,140,7,20,7,NA,1,0,141,1,14.5,9.5,141,2
+28/09/12,RG Sharma,0,0,0,0,0,2,v Australia,Colombo (RPS),38,140,7,20,7,NA,1,0,141,1,14.5,9.5,141,2
+28/09/12,Yuvraj Singh,0,0,0,0,0,2,v Australia,Colombo (RPS),38,140,7,20,7,NA,1,0,141,1,14.5,9.5,141,2
+30/09/12,R Ashwin,0,0,0,0,0,1,v Pakistan,Colombo (RPS),39,129,2,17,7.58,129,2,1,128,10,19.4,6.5,NA,1
+30/09/12,L Balaji,0,0,0,0,0,1,v Pakistan,Colombo (RPS),39,129,2,17,7.58,129,2,1,128,10,19.4,6.5,NA,1
+30/09/12,MS Dhoni,4,4,0,4,0,1,v Pakistan,Colombo (RPS),39,129,2,17,7.58,129,2,1,128,10,19.4,6.5,NA,1
+30/09/12,G Gambhir,0,0,0,0,0,1,v Pakistan,Colombo (RPS),39,129,2,17,7.58,129,2,1,128,10,19.4,6.5,NA,1
+30/09/12,Z Khan,0,0,0,0,0,1,v Pakistan,Colombo (RPS),39,129,2,17,7.58,129,2,1,128,10,19.4,6.5,NA,1
+30/09/12,V Kohli,0,0,0,0,0,1,v Pakistan,Colombo (RPS),39,129,2,17,7.58,129,2,1,128,10,19.4,6.5,NA,1
+30/09/12,IK Pathan,0,0,0,0,0,1,v Pakistan,Colombo (RPS),39,129,2,17,7.58,129,2,1,128,10,19.4,6.5,NA,1
+30/09/12,SK Raina,2,2,0,0,2,1,v Pakistan,Colombo (RPS),39,129,2,17,7.58,129,2,1,128,10,19.4,6.5,NA,1
+30/09/12,V Sehwag,0,0,0,0,0,1,v Pakistan,Colombo (RPS),39,129,2,17,7.58,129,2,1,128,10,19.4,6.5,NA,1
+30/09/12,RG Sharma,1,1,0,0,1,1,v Pakistan,Colombo (RPS),39,129,2,17,7.58,129,2,1,128,10,19.4,6.5,NA,1
+30/09/12,Yuvraj Singh,0,0,0,0,0,1,v Pakistan,Colombo (RPS),39,129,2,17,7.58,129,2,1,128,10,19.4,6.5,NA,1
+02/10/12,R Ashwin,0,0,0,0,0,2,v South Africa,Colombo (RPS),40,152,6,20,7.6,NA,1,1,151,10,19.5,7.61,153,2
+02/10/12,L Balaji,0,0,0,0,0,2,v South Africa,Colombo (RPS),40,152,6,20,7.6,NA,1,1,151,10,19.5,7.61,153,2
+02/10/12,MS Dhoni,0,0,0,0,0,2,v South Africa,Colombo (RPS),40,152,6,20,7.6,NA,1,1,151,10,19.5,7.61,153,2
+02/10/12,G Gambhir,1,1,0,0,1,2,v South Africa,Colombo (RPS),40,152,6,20,7.6,NA,1,1,151,10,19.5,7.61,153,2
+02/10/12,Z Khan,0,0,0,0,0,2,v South Africa,Colombo (RPS),40,152,6,20,7.6,NA,1,1,151,10,19.5,7.61,153,2
+02/10/12,V Kohli,0,0,0,0,0,2,v South Africa,Colombo (RPS),40,152,6,20,7.6,NA,1,1,151,10,19.5,7.61,153,2
+02/10/12,IK Pathan,0,0,0,0,0,2,v South Africa,Colombo (RPS),40,152,6,20,7.6,NA,1,1,151,10,19.5,7.61,153,2
+02/10/12,SK Raina,3,3,0,0,3,2,v South Africa,Colombo (RPS),40,152,6,20,7.6,NA,1,1,151,10,19.5,7.61,153,2
+02/10/12,V Sehwag,1,1,0,0,1,2,v South Africa,Colombo (RPS),40,152,6,20,7.6,NA,1,1,151,10,19.5,7.61,153,2
+02/10/12,RG Sharma,1,1,0,0,1,2,v South Africa,Colombo (RPS),40,152,6,20,7.6,NA,1,1,151,10,19.5,7.61,153,2
+02/10/12,Yuvraj Singh,0,0,0,0,0,2,v South Africa,Colombo (RPS),40,152,6,20,7.6,NA,1,1,151,10,19.5,7.61,153,2
+20/12/12,R Ashwin,0,0,0,0,0,1,v England,Pune,41,158,5,17.5,8.85,158,2,1,157,6,20,7.85,NA,1
+20/12/12,P Awana,0,0,0,0,0,1,v England,Pune,41,158,5,17.5,8.85,158,2,1,157,6,20,7.85,NA,1
+20/12/12,PP Chawla,0,0,0,0,0,1,v England,Pune,41,158,5,17.5,8.85,158,2,1,157,6,20,7.85,NA,1
+20/12/12,MS Dhoni,0,0,0,0,0,1,v England,Pune,41,158,5,17.5,8.85,158,2,1,157,6,20,7.85,NA,1
+20/12/12,AB Dinda,0,0,0,0,0,1,v England,Pune,41,158,5,17.5,8.85,158,2,1,157,6,20,7.85,NA,1
+20/12/12,G Gambhir,0,0,0,0,0,1,v England,Pune,41,158,5,17.5,8.85,158,2,1,157,6,20,7.85,NA,1
+20/12/12,RA Jadeja,0,0,0,0,0,1,v England,Pune,41,158,5,17.5,8.85,158,2,1,157,6,20,7.85,NA,1
+20/12/12,V Kohli,1,1,0,0,1,1,v England,Pune,41,158,5,17.5,8.85,158,2,1,157,6,20,7.85,NA,1
+20/12/12,AM Rahane,3,3,0,0,3,1,v England,Pune,41,158,5,17.5,8.85,158,2,1,157,6,20,7.85,NA,1
+20/12/12,SK Raina,0,0,0,0,0,1,v England,Pune,41,158,5,17.5,8.85,158,2,1,157,6,20,7.85,NA,1
+20/12/12,Yuvraj Singh,0,0,0,0,0,1,v England,Pune,41,158,5,17.5,8.85,158,2,1,157,6,20,7.85,NA,1
+22/12/12,R Ashwin,0,0,0,0,0,2,v England,Mumbai,42,177,8,20,8.85,NA,1,0,181,4,20,9.05,178,2
+22/12/12,P Awana,0,0,0,0,0,2,v England,Mumbai,42,177,8,20,8.85,NA,1,0,181,4,20,9.05,178,2
+22/12/12,PP Chawla,0,0,0,0,0,2,v England,Mumbai,42,177,8,20,8.85,NA,1,0,181,4,20,9.05,178,2
+22/12/12,MS Dhoni,1,0,1,0,0,2,v England,Mumbai,42,177,8,20,8.85,NA,1,0,181,4,20,9.05,178,2
+22/12/12,AB Dinda,1,1,0,0,1,2,v England,Mumbai,42,177,8,20,8.85,NA,1,0,181,4,20,9.05,178,2
+22/12/12,G Gambhir,1,1,0,0,1,2,v England,Mumbai,42,177,8,20,8.85,NA,1,0,181,4,20,9.05,178,2
+22/12/12,V Kohli,0,0,0,0,0,2,v England,Mumbai,42,177,8,20,8.85,NA,1,0,181,4,20,9.05,178,2
+22/12/12,AM Rahane,0,0,0,0,0,2,v England,Mumbai,42,177,8,20,8.85,NA,1,0,181,4,20,9.05,178,2
+22/12/12,SK Raina,0,0,0,0,0,2,v England,Mumbai,42,177,8,20,8.85,NA,1,0,181,4,20,9.05,178,2
+22/12/12,RG Sharma,0,0,0,0,0,2,v England,Mumbai,42,177,8,20,8.85,NA,1,0,181,4,20,9.05,178,2
+22/12/12,Yuvraj Singh,0,0,0,0,0,2,v England,Mumbai,42,177,8,20,8.85,NA,1,0,181,4,20,9.05,178,2
+25/12/12,MS Dhoni,1,1,0,1,0,2,v Pakistan,Bangalore,43,133,9,20,6.65,NA,1,0,134,5,19.4,6.81,134,2
+25/12/12,AB Dinda,0,0,0,0,0,2,v Pakistan,Bangalore,43,133,9,20,6.65,NA,1,0,134,5,19.4,6.81,134,2
+25/12/12,G Gambhir,0,0,0,0,0,2,v Pakistan,Bangalore,43,133,9,20,6.65,NA,1,0,134,5,19.4,6.81,134,2
+25/12/12,RA Jadeja,0,0,0,0,0,2,v Pakistan,Bangalore,43,133,9,20,6.65,NA,1,0,134,5,19.4,6.81,134,2
+25/12/12,V Kohli,0,0,0,0,0,2,v Pakistan,Bangalore,43,133,9,20,6.65,NA,1,0,134,5,19.4,6.81,134,2
+25/12/12,B Kumar,1,1,0,0,1,2,v Pakistan,Bangalore,43,133,9,20,6.65,NA,1,0,134,5,19.4,6.81,134,2
+25/12/12,AM Rahane,0,0,0,0,0,2,v Pakistan,Bangalore,43,133,9,20,6.65,NA,1,0,134,5,19.4,6.81,134,2
+25/12/12,SK Raina,0,0,0,0,0,2,v Pakistan,Bangalore,43,133,9,20,6.65,NA,1,0,134,5,19.4,6.81,134,2
+25/12/12,I Sharma,1,1,0,0,1,2,v Pakistan,Bangalore,43,133,9,20,6.65,NA,1,0,134,5,19.4,6.81,134,2
+25/12/12,RG Sharma,0,0,0,0,0,2,v Pakistan,Bangalore,43,133,9,20,6.65,NA,1,0,134,5,19.4,6.81,134,2
+25/12/12,Yuvraj Singh,0,0,0,0,0,2,v Pakistan,Bangalore,43,133,9,20,6.65,NA,1,0,134,5,19.4,6.81,134,2
+28/12/12,R Ashwin,0,0,0,0,0,2,v Pakistan,Ahmedabad,44,192,5,20,9.6,NA,1,1,181,7,20,9.05,193,2
+28/12/12,MS Dhoni,1,0,1,0,0,2,v Pakistan,Ahmedabad,44,192,5,20,9.6,NA,1,1,181,7,20,9.05,193,2
+28/12/12,AB Dinda,0,0,0,0,0,2,v Pakistan,Ahmedabad,44,192,5,20,9.6,NA,1,1,181,7,20,9.05,193,2
+28/12/12,G Gambhir,0,0,0,0,0,2,v Pakistan,Ahmedabad,44,192,5,20,9.6,NA,1,1,181,7,20,9.05,193,2
+28/12/12,V Kohli,2,2,0,0,2,2,v Pakistan,Ahmedabad,44,192,5,20,9.6,NA,1,1,181,7,20,9.05,193,2
+28/12/12,B Kumar,0,0,0,0,0,2,v Pakistan,Ahmedabad,44,192,5,20,9.6,NA,1,1,181,7,20,9.05,193,2
+28/12/12,AM Rahane,1,1,0,0,1,2,v Pakistan,Ahmedabad,44,192,5,20,9.6,NA,1,1,181,7,20,9.05,193,2
+28/12/12,SK Raina,1,1,0,0,1,2,v Pakistan,Ahmedabad,44,192,5,20,9.6,NA,1,1,181,7,20,9.05,193,2
+28/12/12,I Sharma,0,0,0,0,0,2,v Pakistan,Ahmedabad,44,192,5,20,9.6,NA,1,1,181,7,20,9.05,193,2
+28/12/12,RG Sharma,1,1,0,0,1,2,v Pakistan,Ahmedabad,44,192,5,20,9.6,NA,1,1,181,7,20,9.05,193,2
+28/12/12,Yuvraj Singh,0,0,0,0,0,2,v Pakistan,Ahmedabad,44,192,5,20,9.6,NA,1,1,181,7,20,9.05,193,2
+10/10/13,R Ashwin,0,0,0,0,0,1,v Australia,Rajkot,45,202,4,19.4,10.27,202,2,1,201,7,20,10.05,NA,1
+10/10/13,S Dhawan,0,0,0,0,0,1,v Australia,Rajkot,45,202,4,19.4,10.27,202,2,1,201,7,20,10.05,NA,1
+10/10/13,MS Dhoni,1,1,0,1,0,1,v Australia,Rajkot,45,202,4,19.4,10.27,202,2,1,201,7,20,10.05,NA,1
+10/10/13,RA Jadeja,1,1,0,0,1,1,v Australia,Rajkot,45,202,4,19.4,10.27,202,2,1,201,7,20,10.05,NA,1
+10/10/13,V Kohli,0,0,0,0,0,1,v Australia,Rajkot,45,202,4,19.4,10.27,202,2,1,201,7,20,10.05,NA,1
+10/10/13,B Kumar,0,0,0,0,0,1,v Australia,Rajkot,45,202,4,19.4,10.27,202,2,1,201,7,20,10.05,NA,1
+10/10/13,SK Raina,0,0,0,0,0,1,v Australia,Rajkot,45,202,4,19.4,10.27,202,2,1,201,7,20,10.05,NA,1
+10/10/13,I Sharma,1,1,0,0,1,1,v Australia,Rajkot,45,202,4,19.4,10.27,202,2,1,201,7,20,10.05,NA,1
+10/10/13,RG Sharma,0,0,0,0,0,1,v Australia,Rajkot,45,202,4,19.4,10.27,202,2,1,201,7,20,10.05,NA,1
+10/10/13,R Vinay Kumar,1,1,0,0,1,1,v Australia,Rajkot,45,202,4,19.4,10.27,202,2,1,201,7,20,10.05,NA,1
+10/10/13,Yuvraj Singh,1,1,0,0,1,1,v Australia,Rajkot,45,202,4,19.4,10.27,202,2,1,201,7,20,10.05,NA,1
+21/03/14,R Ashwin,0,0,0,0,0,1,v Pakistan,Dhaka,46,131,3,18.3,7.08,131,2,1,130,7,20,6.5,NA,1
+21/03/14,S Dhawan,0,0,0,0,0,1,v Pakistan,Dhaka,46,131,3,18.3,7.08,131,2,1,130,7,20,6.5,NA,1
+21/03/14,MS Dhoni,1,0,1,0,0,1,v Pakistan,Dhaka,46,131,3,18.3,7.08,131,2,1,130,7,20,6.5,NA,1
+21/03/14,RA Jadeja,0,0,0,0,0,1,v Pakistan,Dhaka,46,131,3,18.3,7.08,131,2,1,130,7,20,6.5,NA,1
+21/03/14,V Kohli,0,0,0,0,0,1,v Pakistan,Dhaka,46,131,3,18.3,7.08,131,2,1,130,7,20,6.5,NA,1
+21/03/14,B Kumar,1,1,0,0,1,1,v Pakistan,Dhaka,46,131,3,18.3,7.08,131,2,1,130,7,20,6.5,NA,1
+21/03/14,A Mishra,0,0,0,0,0,1,v Pakistan,Dhaka,46,131,3,18.3,7.08,131,2,1,130,7,20,6.5,NA,1
+21/03/14,Mohammed Shami,0,0,0,0,0,1,v Pakistan,Dhaka,46,131,3,18.3,7.08,131,2,1,130,7,20,6.5,NA,1
+21/03/14,SK Raina,3,3,0,0,3,1,v Pakistan,Dhaka,46,131,3,18.3,7.08,131,2,1,130,7,20,6.5,NA,1
+21/03/14,RG Sharma,0,0,0,0,0,1,v Pakistan,Dhaka,46,131,3,18.3,7.08,131,2,1,130,7,20,6.5,NA,1
+21/03/14,Yuvraj Singh,0,0,0,0,0,1,v Pakistan,Dhaka,46,131,3,18.3,7.08,131,2,1,130,7,20,6.5,NA,1
+23/03/14,R Ashwin,1,1,0,0,1,1,v West Indies,Dhaka,47,130,3,19.4,6.61,130,2,1,129,7,20,6.45,NA,1
+23/03/14,S Dhawan,1,1,0,0,1,1,v West Indies,Dhaka,47,130,3,19.4,6.61,130,2,1,129,7,20,6.45,NA,1
+23/03/14,MS Dhoni,1,0,1,0,0,1,v West Indies,Dhaka,47,130,3,19.4,6.61,130,2,1,129,7,20,6.45,NA,1
+23/03/14,RA Jadeja,0,0,0,0,0,1,v West Indies,Dhaka,47,130,3,19.4,6.61,130,2,1,129,7,20,6.45,NA,1
+23/03/14,V Kohli,1,1,0,0,1,1,v West Indies,Dhaka,47,130,3,19.4,6.61,130,2,1,129,7,20,6.45,NA,1
+23/03/14,B Kumar,0,0,0,0,0,1,v West Indies,Dhaka,47,130,3,19.4,6.61,130,2,1,129,7,20,6.45,NA,1
+23/03/14,A Mishra,0,0,0,0,0,1,v West Indies,Dhaka,47,130,3,19.4,6.61,130,2,1,129,7,20,6.45,NA,1
+23/03/14,Mohammed Shami,0,0,0,0,0,1,v West Indies,Dhaka,47,130,3,19.4,6.61,130,2,1,129,7,20,6.45,NA,1
+23/03/14,SK Raina,0,0,0,0,0,1,v West Indies,Dhaka,47,130,3,19.4,6.61,130,2,1,129,7,20,6.45,NA,1
+23/03/14,RG Sharma,1,1,0,0,1,1,v West Indies,Dhaka,47,130,3,19.4,6.61,130,2,1,129,7,20,6.45,NA,1
+23/03/14,Yuvraj Singh,0,0,0,0,0,1,v West Indies,Dhaka,47,130,3,19.4,6.61,130,2,1,129,7,20,6.45,NA,1
+28/03/14,R Ashwin,0,0,0,0,0,1,v Bangladesh,Dhaka,48,141,2,18.3,7.62,139,2,1,138,7,20,6.9,NA,1
+28/03/14,S Dhawan,0,0,0,0,0,1,v Bangladesh,Dhaka,48,141,2,18.3,7.62,139,2,1,138,7,20,6.9,NA,1
+28/03/14,MS Dhoni,1,0,1,0,0,1,v Bangladesh,Dhaka,48,141,2,18.3,7.62,139,2,1,138,7,20,6.9,NA,1
+28/03/14,RA Jadeja,1,1,0,0,1,1,v Bangladesh,Dhaka,48,141,2,18.3,7.62,139,2,1,138,7,20,6.9,NA,1
+28/03/14,V Kohli,1,1,0,0,1,1,v Bangladesh,Dhaka,48,141,2,18.3,7.62,139,2,1,138,7,20,6.9,NA,1
+28/03/14,B Kumar,0,0,0,0,0,1,v Bangladesh,Dhaka,48,141,2,18.3,7.62,139,2,1,138,7,20,6.9,NA,1
+28/03/14,A Mishra,0,0,0,0,0,1,v Bangladesh,Dhaka,48,141,2,18.3,7.62,139,2,1,138,7,20,6.9,NA,1
+28/03/14,Mohammed Shami,0,0,0,0,0,1,v Bangladesh,Dhaka,48,141,2,18.3,7.62,139,2,1,138,7,20,6.9,NA,1
+28/03/14,SK Raina,1,1,0,0,1,1,v Bangladesh,Dhaka,48,141,2,18.3,7.62,139,2,1,138,7,20,6.9,NA,1
+28/03/14,RG Sharma,1,1,0,0,1,1,v Bangladesh,Dhaka,48,141,2,18.3,7.62,139,2,1,138,7,20,6.9,NA,1
+28/03/14,Yuvraj Singh,0,0,0,0,0,1,v Bangladesh,Dhaka,48,141,2,18.3,7.62,139,2,1,138,7,20,6.9,NA,1
+30/03/14,R Ashwin,0,0,0,0,0,2,v Australia,Dhaka,49,159,7,20,7.95,NA,1,1,86,10,16.2,5.26,160,2
+30/03/14,MS Dhoni,1,1,0,1,0,2,v Australia,Dhaka,49,159,7,20,7.95,NA,1,1,86,10,16.2,5.26,160,2
+30/03/14,RA Jadeja,2,2,0,0,2,2,v Australia,Dhaka,49,159,7,20,7.95,NA,1,1,86,10,16.2,5.26,160,2
+30/03/14,V Kohli,2,2,0,0,2,2,v Australia,Dhaka,49,159,7,20,7.95,NA,1,1,86,10,16.2,5.26,160,2
+30/03/14,B Kumar,0,0,0,0,0,2,v Australia,Dhaka,49,159,7,20,7.95,NA,1,1,86,10,16.2,5.26,160,2
+30/03/14,A Mishra,0,0,0,0,0,2,v Australia,Dhaka,49,159,7,20,7.95,NA,1,1,86,10,16.2,5.26,160,2
+30/03/14,AM Rahane,1,1,0,0,1,2,v Australia,Dhaka,49,159,7,20,7.95,NA,1,1,86,10,16.2,5.26,160,2
+30/03/14,SK Raina,0,0,0,0,0,2,v Australia,Dhaka,49,159,7,20,7.95,NA,1,1,86,10,16.2,5.26,160,2
+30/03/14,MM Sharma,0,0,0,0,0,2,v Australia,Dhaka,49,159,7,20,7.95,NA,1,1,86,10,16.2,5.26,160,2
+30/03/14,RG Sharma,1,1,0,0,1,2,v Australia,Dhaka,49,159,7,20,7.95,NA,1,1,86,10,16.2,5.26,160,2
+30/03/14,Yuvraj Singh,0,0,0,0,0,2,v Australia,Dhaka,49,159,7,20,7.95,NA,1,1,86,10,16.2,5.26,160,2
+04/04/14,R Ashwin,0,0,0,0,0,1,v South Africa,Dhaka,50,176,4,19.1,9.18,173,2,1,172,4,20,8.6,NA,1
+04/04/14,MS Dhoni,1,1,0,1,0,1,v South Africa,Dhaka,50,176,4,19.1,9.18,173,2,1,172,4,20,8.6,NA,1
+04/04/14,RA Jadeja,0,0,0,0,0,1,v South Africa,Dhaka,50,176,4,19.1,9.18,173,2,1,172,4,20,8.6,NA,1
+04/04/14,V Kohli,0,0,0,0,0,1,v South Africa,Dhaka,50,176,4,19.1,9.18,173,2,1,172,4,20,8.6,NA,1
+04/04/14,B Kumar,0,0,0,0,0,1,v South Africa,Dhaka,50,176,4,19.1,9.18,173,2,1,172,4,20,8.6,NA,1
+04/04/14,A Mishra,0,0,0,0,0,1,v South Africa,Dhaka,50,176,4,19.1,9.18,173,2,1,172,4,20,8.6,NA,1
+04/04/14,AM Rahane,0,0,0,0,0,1,v South Africa,Dhaka,50,176,4,19.1,9.18,173,2,1,172,4,20,8.6,NA,1
+04/04/14,SK Raina,0,0,0,0,0,1,v South Africa,Dhaka,50,176,4,19.1,9.18,173,2,1,172,4,20,8.6,NA,1
+04/04/14,MM Sharma,0,0,0,0,0,1,v South Africa,Dhaka,50,176,4,19.1,9.18,173,2,1,172,4,20,8.6,NA,1
+04/04/14,RG Sharma,1,1,0,0,1,1,v South Africa,Dhaka,50,176,4,19.1,9.18,173,2,1,172,4,20,8.6,NA,1
+04/04/14,Yuvraj Singh,0,0,0,0,0,1,v South Africa,Dhaka,50,176,4,19.1,9.18,173,2,1,172,4,20,8.6,NA,1
+06/04/14,R Ashwin,1,1,0,0,1,2,v Sri Lanka,Dhaka,51,130,4,20,6.5,NA,1,0,134,4,17.5,7.51,131,2
+06/04/14,MS Dhoni,1,1,0,1,0,2,v Sri Lanka,Dhaka,51,130,4,20,6.5,NA,1,0,134,4,17.5,7.51,131,2
+06/04/14,RA Jadeja,1,1,0,0,1,2,v Sri Lanka,Dhaka,51,130,4,20,6.5,NA,1,0,134,4,17.5,7.51,131,2
+06/04/14,V Kohli,1,1,0,0,1,2,v Sri Lanka,Dhaka,51,130,4,20,6.5,NA,1,0,134,4,17.5,7.51,131,2
+06/04/14,B Kumar,0,0,0,0,0,2,v Sri Lanka,Dhaka,51,130,4,20,6.5,NA,1,0,134,4,17.5,7.51,131,2
+06/04/14,A Mishra,0,0,0,0,0,2,v Sri Lanka,Dhaka,51,130,4,20,6.5,NA,1,0,134,4,17.5,7.51,131,2
+06/04/14,AM Rahane,0,0,0,0,0,2,v Sri Lanka,Dhaka,51,130,4,20,6.5,NA,1,0,134,4,17.5,7.51,131,2
+06/04/14,SK Raina,0,0,0,0,0,2,v Sri Lanka,Dhaka,51,130,4,20,6.5,NA,1,0,134,4,17.5,7.51,131,2
+06/04/14,MM Sharma,0,0,0,0,0,2,v Sri Lanka,Dhaka,51,130,4,20,6.5,NA,1,0,134,4,17.5,7.51,131,2
+06/04/14,RG Sharma,0,0,0,0,0,2,v Sri Lanka,Dhaka,51,130,4,20,6.5,NA,1,0,134,4,17.5,7.51,131,2
+06/04/14,Yuvraj Singh,0,0,0,0,0,2,v Sri Lanka,Dhaka,51,130,4,20,6.5,NA,1,0,134,4,17.5,7.51,131,2
+07/09/14,R Ashwin,0,0,0,0,0,1,v England,Birmingham,52,177,5,20,8.85,181,2,0,180,7,20,9,NA,1
+07/09/14,S Dhawan,0,0,0,0,0,1,v England,Birmingham,52,177,5,20,8.85,181,2,0,180,7,20,9,NA,1
+07/09/14,MS Dhoni,0,0,0,0,0,1,v England,Birmingham,52,177,5,20,8.85,181,2,0,180,7,20,9,NA,1
+07/09/14,RA Jadeja,0,0,0,0,0,1,v England,Birmingham,52,177,5,20,8.85,181,2,0,180,7,20,9,NA,1
+07/09/14,V Kohli,0,0,0,0,0,1,v England,Birmingham,52,177,5,20,8.85,181,2,0,180,7,20,9,NA,1
+07/09/14,Mohammed Shami,0,0,0,0,0,1,v England,Birmingham,52,177,5,20,8.85,181,2,0,180,7,20,9,NA,1
+07/09/14,AM Rahane,4,4,0,0,4,1,v England,Birmingham,52,177,5,20,8.85,181,2,0,180,7,20,9,NA,1
+07/09/14,SK Raina,0,0,0,0,0,1,v England,Birmingham,52,177,5,20,8.85,181,2,0,180,7,20,9,NA,1
+07/09/14,AT Rayudu,2,2,0,0,2,1,v England,Birmingham,52,177,5,20,8.85,181,2,0,180,7,20,9,NA,1
+07/09/14,KV Sharma,0,0,0,0,0,1,v England,Birmingham,52,177,5,20,8.85,181,2,0,180,7,20,9,NA,1
+07/09/14,MM Sharma,0,0,0,0,0,1,v England,Birmingham,52,177,5,20,8.85,181,2,0,180,7,20,9,NA,1
+17/07/15,STR Binny,0,0,0,0,0,2,v Zimbabwe,Harare,53,178,5,20,8.9,NA,1,1,124,7,20,6.2,179,2
+17/07/15,Harbhajan Singh,0,0,0,0,0,2,v Zimbabwe,Harare,53,178,5,20,8.9,NA,1,1,124,7,20,6.2,179,2
+17/07/15,KM Jadhav,1,1,0,0,1,2,v Zimbabwe,Harare,53,178,5,20,8.9,NA,1,1,124,7,20,6.2,179,2
+17/07/15,B Kumar,0,0,0,0,0,2,v Zimbabwe,Harare,53,178,5,20,8.9,NA,1,1,124,7,20,6.2,179,2
+17/07/15,MK Pandey,1,1,0,0,1,2,v Zimbabwe,Harare,53,178,5,20,8.9,NA,1,1,124,7,20,6.2,179,2
+17/07/15,AR Patel,0,0,0,0,0,2,v Zimbabwe,Harare,53,178,5,20,8.9,NA,1,1,124,7,20,6.2,179,2
+17/07/15,AM Rahane,1,1,0,0,1,2,v Zimbabwe,Harare,53,178,5,20,8.9,NA,1,1,124,7,20,6.2,179,2
+17/07/15,Sandeep Sharma,0,0,0,0,0,2,v Zimbabwe,Harare,53,178,5,20,8.9,NA,1,1,124,7,20,6.2,179,2
+17/07/15,MM Sharma,0,0,0,0,0,2,v Zimbabwe,Harare,53,178,5,20,8.9,NA,1,1,124,7,20,6.2,179,2
+17/07/15,RV Uthappa,0,0,0,0,0,2,v Zimbabwe,Harare,53,178,5,20,8.9,NA,1,1,124,7,20,6.2,179,2
+17/07/15,M Vijay,0,0,0,0,0,2,v Zimbabwe,Harare,53,178,5,20,8.9,NA,1,1,124,7,20,6.2,179,2
+19/07/15,STR Binny,0,0,0,0,0,1,v Zimbabwe,Harare,54,135,9,20,6.75,146,2,0,145,7,20,7.25,NA,1
+19/07/15,KM Jadhav,0,0,0,0,0,1,v Zimbabwe,Harare,54,135,9,20,6.75,146,2,0,145,7,20,7.25,NA,1
+19/07/15,B Kumar,0,0,0,0,0,1,v Zimbabwe,Harare,54,135,9,20,6.75,146,2,0,145,7,20,7.25,NA,1
+19/07/15,MK Pandey,0,0,0,0,0,1,v Zimbabwe,Harare,54,135,9,20,6.75,146,2,0,145,7,20,7.25,NA,1
+19/07/15,AR Patel,2,2,0,0,2,1,v Zimbabwe,Harare,54,135,9,20,6.75,146,2,0,145,7,20,7.25,NA,1
+19/07/15,AM Rahane,0,0,0,0,0,1,v Zimbabwe,Harare,54,135,9,20,6.75,146,2,0,145,7,20,7.25,NA,1
+19/07/15,SV Samson,1,1,0,0,1,1,v Zimbabwe,Harare,54,135,9,20,6.75,146,2,0,145,7,20,7.25,NA,1
+19/07/15,Sandeep Sharma,0,0,0,0,0,1,v Zimbabwe,Harare,54,135,9,20,6.75,146,2,0,145,7,20,7.25,NA,1
+19/07/15,MM Sharma,0,0,0,0,0,1,v Zimbabwe,Harare,54,135,9,20,6.75,146,2,0,145,7,20,7.25,NA,1
+19/07/15,RV Uthappa,1,1,0,1,0,1,v Zimbabwe,Harare,54,135,9,20,6.75,146,2,0,145,7,20,7.25,NA,1
+19/07/15,M Vijay,0,0,0,0,0,1,v Zimbabwe,Harare,54,135,9,20,6.75,146,2,0,145,7,20,7.25,NA,1
+02/10/15,S Aravind,0,0,0,0,0,2,v South Africa,Dharamsala,55,199,5,20,9.95,NA,1,0,200,3,19.4,10.16,200,2
+02/10/15,R Ashwin,0,0,0,0,0,2,v South Africa,Dharamsala,55,199,5,20,9.95,NA,1,0,200,3,19.4,10.16,200,2
+02/10/15,S Dhawan,0,0,0,0,0,2,v South Africa,Dharamsala,55,199,5,20,9.95,NA,1,0,200,3,19.4,10.16,200,2
+02/10/15,MS Dhoni,0,0,0,0,0,2,v South Africa,Dharamsala,55,199,5,20,9.95,NA,1,0,200,3,19.4,10.16,200,2
+02/10/15,V Kohli,0,0,0,0,0,2,v South Africa,Dharamsala,55,199,5,20,9.95,NA,1,0,200,3,19.4,10.16,200,2
+02/10/15,B Kumar,0,0,0,0,0,2,v South Africa,Dharamsala,55,199,5,20,9.95,NA,1,0,200,3,19.4,10.16,200,2
+02/10/15,AR Patel,0,0,0,0,0,2,v South Africa,Dharamsala,55,199,5,20,9.95,NA,1,0,200,3,19.4,10.16,200,2
+02/10/15,SK Raina,0,0,0,0,0,2,v South Africa,Dharamsala,55,199,5,20,9.95,NA,1,0,200,3,19.4,10.16,200,2
+02/10/15,AT Rayudu,0,0,0,0,0,2,v South Africa,Dharamsala,55,199,5,20,9.95,NA,1,0,200,3,19.4,10.16,200,2
+02/10/15,MM Sharma,0,0,0,0,0,2,v South Africa,Dharamsala,55,199,5,20,9.95,NA,1,0,200,3,19.4,10.16,200,2
+02/10/15,RG Sharma,0,0,0,0,0,2,v South Africa,Dharamsala,55,199,5,20,9.95,NA,1,0,200,3,19.4,10.16,200,2
+05/10/15,R Ashwin,0,0,0,0,0,2,v South Africa,Cuttack,56,92,10,17.2,5.3,NA,1,0,96,4,17.1,5.59,93,2
+05/10/15,S Dhawan,0,0,0,0,0,2,v South Africa,Cuttack,56,92,10,17.2,5.3,NA,1,0,96,4,17.1,5.59,93,2
+05/10/15,MS Dhoni,0,0,0,0,0,2,v South Africa,Cuttack,56,92,10,17.2,5.3,NA,1,0,96,4,17.1,5.59,93,2
+05/10/15,Harbhajan Singh,0,0,0,0,0,2,v South Africa,Cuttack,56,92,10,17.2,5.3,NA,1,0,96,4,17.1,5.59,93,2
+05/10/15,V Kohli,0,0,0,0,0,2,v South Africa,Cuttack,56,92,10,17.2,5.3,NA,1,0,96,4,17.1,5.59,93,2
+05/10/15,B Kumar,0,0,0,0,0,2,v South Africa,Cuttack,56,92,10,17.2,5.3,NA,1,0,96,4,17.1,5.59,93,2
+05/10/15,AR Patel,0,0,0,0,0,2,v South Africa,Cuttack,56,92,10,17.2,5.3,NA,1,0,96,4,17.1,5.59,93,2
+05/10/15,SK Raina,0,0,0,0,0,2,v South Africa,Cuttack,56,92,10,17.2,5.3,NA,1,0,96,4,17.1,5.59,93,2
+05/10/15,AT Rayudu,0,0,0,0,0,2,v South Africa,Cuttack,56,92,10,17.2,5.3,NA,1,0,96,4,17.1,5.59,93,2
+05/10/15,MM Sharma,1,1,0,0,1,2,v South Africa,Cuttack,56,92,10,17.2,5.3,NA,1,0,96,4,17.1,5.59,93,2
+05/10/15,RG Sharma,1,1,0,0,1,2,v South Africa,Cuttack,56,92,10,17.2,5.3,NA,1,0,96,4,17.1,5.59,93,2
+26/01/16,R Ashwin,0,0,0,0,0,2,v Australia,Adelaide,57,188,3,20,9.4,NA,1,1,151,10,19.3,7.74,189,2
+26/01/16,JJ Bumrah,0,0,0,0,0,2,v Australia,Adelaide,57,188,3,20,9.4,NA,1,1,151,10,19.3,7.74,189,2
+26/01/16,S Dhawan,0,0,0,0,0,2,v Australia,Adelaide,57,188,3,20,9.4,NA,1,1,151,10,19.3,7.74,189,2
+26/01/16,MS Dhoni,0,0,0,0,0,2,v Australia,Adelaide,57,188,3,20,9.4,NA,1,1,151,10,19.3,7.74,189,2
+26/01/16,RA Jadeja,1,1,0,0,1,2,v Australia,Adelaide,57,188,3,20,9.4,NA,1,1,151,10,19.3,7.74,189,2
+26/01/16,V Kohli,2,2,0,0,2,2,v Australia,Adelaide,57,188,3,20,9.4,NA,1,1,151,10,19.3,7.74,189,2
+26/01/16,A Nehra,1,1,0,0,1,2,v Australia,Adelaide,57,188,3,20,9.4,NA,1,1,151,10,19.3,7.74,189,2
+26/01/16,HH Pandya,1,1,0,0,1,2,v Australia,Adelaide,57,188,3,20,9.4,NA,1,1,151,10,19.3,7.74,189,2
+26/01/16,SK Raina,0,0,0,0,0,2,v Australia,Adelaide,57,188,3,20,9.4,NA,1,1,151,10,19.3,7.74,189,2
+26/01/16,RG Sharma,0,0,0,0,0,2,v Australia,Adelaide,57,188,3,20,9.4,NA,1,1,151,10,19.3,7.74,189,2
+26/01/16,Yuvraj Singh,1,1,0,0,1,2,v Australia,Adelaide,57,188,3,20,9.4,NA,1,1,151,10,19.3,7.74,189,2
+29/01/16,R Ashwin,0,0,0,0,0,2,v Australia,Melbourne,58,184,3,20,9.2,NA,1,1,157,8,20,7.85,185,2
+29/01/16,JJ Bumrah,0,0,0,0,0,2,v Australia,Melbourne,58,184,3,20,9.2,NA,1,1,157,8,20,7.85,185,2
+29/01/16,S Dhawan,0,0,0,0,0,2,v Australia,Melbourne,58,184,3,20,9.2,NA,1,1,157,8,20,7.85,185,2
+29/01/16,MS Dhoni,3,1,2,1,0,2,v Australia,Melbourne,58,184,3,20,9.2,NA,1,1,157,8,20,7.85,185,2
+29/01/16,RA Jadeja,1,1,0,0,1,2,v Australia,Melbourne,58,184,3,20,9.2,NA,1,1,157,8,20,7.85,185,2
+29/01/16,V Kohli,0,0,0,0,0,2,v Australia,Melbourne,58,184,3,20,9.2,NA,1,1,157,8,20,7.85,185,2
+29/01/16,A Nehra,0,0,0,0,0,2,v Australia,Melbourne,58,184,3,20,9.2,NA,1,1,157,8,20,7.85,185,2
+29/01/16,HH Pandya,1,1,0,0,1,2,v Australia,Melbourne,58,184,3,20,9.2,NA,1,1,157,8,20,7.85,185,2
+29/01/16,SK Raina,0,0,0,0,0,2,v Australia,Melbourne,58,184,3,20,9.2,NA,1,1,157,8,20,7.85,185,2
+29/01/16,RG Sharma,0,0,0,0,0,2,v Australia,Melbourne,58,184,3,20,9.2,NA,1,1,157,8,20,7.85,185,2
+29/01/16,Yuvraj Singh,0,0,0,0,0,2,v Australia,Melbourne,58,184,3,20,9.2,NA,1,1,157,8,20,7.85,185,2
+31/01/16,R Ashwin,0,0,0,0,0,1,v Australia,Sydney,59,200,3,20,10,198,2,1,197,5,20,9.85,NA,1
+31/01/16,JJ Bumrah,0,0,0,0,0,1,v Australia,Sydney,59,200,3,20,10,198,2,1,197,5,20,9.85,NA,1
+31/01/16,S Dhawan,0,0,0,0,0,1,v Australia,Sydney,59,200,3,20,10,198,2,1,197,5,20,9.85,NA,1
+31/01/16,MS Dhoni,1,1,0,1,0,1,v Australia,Sydney,59,200,3,20,10,198,2,1,197,5,20,9.85,NA,1
+31/01/16,RA Jadeja,1,1,0,0,1,1,v Australia,Sydney,59,200,3,20,10,198,2,1,197,5,20,9.85,NA,1
+31/01/16,V Kohli,0,0,0,0,0,1,v Australia,Sydney,59,200,3,20,10,198,2,1,197,5,20,9.85,NA,1
+31/01/16,A Nehra,0,0,0,0,0,1,v Australia,Sydney,59,200,3,20,10,198,2,1,197,5,20,9.85,NA,1
+31/01/16,HH Pandya,0,0,0,0,0,1,v Australia,Sydney,59,200,3,20,10,198,2,1,197,5,20,9.85,NA,1
+31/01/16,SK Raina,1,1,0,0,1,1,v Australia,Sydney,59,200,3,20,10,198,2,1,197,5,20,9.85,NA,1
+31/01/16,RG Sharma,0,0,0,0,0,1,v Australia,Sydney,59,200,3,20,10,198,2,1,197,5,20,9.85,NA,1
+31/01/16,Yuvraj Singh,0,0,0,0,0,1,v Australia,Sydney,59,200,3,20,10,198,2,1,197,5,20,9.85,NA,1
+09/02/16,R Ashwin,0,0,0,0,0,2,v Sri Lanka,Pune,60,101,10,18.5,5.36,NA,1,0,105,5,18,5.83,102,2
+09/02/16,JJ Bumrah,0,0,0,0,0,2,v Sri Lanka,Pune,60,101,10,18.5,5.36,NA,1,0,105,5,18,5.83,102,2
+09/02/16,S Dhawan,2,2,0,0,2,2,v Sri Lanka,Pune,60,101,10,18.5,5.36,NA,1,0,105,5,18,5.83,102,2
+09/02/16,MS Dhoni,0,0,0,0,0,2,v Sri Lanka,Pune,60,101,10,18.5,5.36,NA,1,0,105,5,18,5.83,102,2
+09/02/16,RA Jadeja,0,0,0,0,0,2,v Sri Lanka,Pune,60,101,10,18.5,5.36,NA,1,0,105,5,18,5.83,102,2
+09/02/16,A Nehra,0,0,0,0,0,2,v Sri Lanka,Pune,60,101,10,18.5,5.36,NA,1,0,105,5,18,5.83,102,2
+09/02/16,HH Pandya,0,0,0,0,0,2,v Sri Lanka,Pune,60,101,10,18.5,5.36,NA,1,0,105,5,18,5.83,102,2
+09/02/16,AM Rahane,0,0,0,0,0,2,v Sri Lanka,Pune,60,101,10,18.5,5.36,NA,1,0,105,5,18,5.83,102,2
+09/02/16,SK Raina,1,1,0,0,1,2,v Sri Lanka,Pune,60,101,10,18.5,5.36,NA,1,0,105,5,18,5.83,102,2
+09/02/16,RG Sharma,0,0,0,0,0,2,v Sri Lanka,Pune,60,101,10,18.5,5.36,NA,1,0,105,5,18,5.83,102,2
+09/02/16,Yuvraj Singh,0,0,0,0,0,2,v Sri Lanka,Pune,60,101,10,18.5,5.36,NA,1,0,105,5,18,5.83,102,2
+12/02/16,R Ashwin,0,0,0,0,0,2,v Sri Lanka,Ranchi,61,196,6,20,9.8,NA,1,1,127,9,20,6.35,197,2
+12/02/16,JJ Bumrah,0,0,0,0,0,2,v Sri Lanka,Ranchi,61,196,6,20,9.8,NA,1,1,127,9,20,6.35,197,2
+12/02/16,S Dhawan,0,0,0,0,0,2,v Sri Lanka,Ranchi,61,196,6,20,9.8,NA,1,1,127,9,20,6.35,197,2
+12/02/16,MS Dhoni,3,1,2,1,0,2,v Sri Lanka,Ranchi,61,196,6,20,9.8,NA,1,1,127,9,20,6.35,197,2
+12/02/16,RA Jadeja,0,0,0,0,0,2,v Sri Lanka,Ranchi,61,196,6,20,9.8,NA,1,1,127,9,20,6.35,197,2
+12/02/16,A Nehra,0,0,0,0,0,2,v Sri Lanka,Ranchi,61,196,6,20,9.8,NA,1,1,127,9,20,6.35,197,2
+12/02/16,HH Pandya,1,1,0,0,1,2,v Sri Lanka,Ranchi,61,196,6,20,9.8,NA,1,1,127,9,20,6.35,197,2
+12/02/16,AM Rahane,1,1,0,0,1,2,v Sri Lanka,Ranchi,61,196,6,20,9.8,NA,1,1,127,9,20,6.35,197,2
+12/02/16,SK Raina,1,1,0,0,1,2,v Sri Lanka,Ranchi,61,196,6,20,9.8,NA,1,1,127,9,20,6.35,197,2
+12/02/16,RG Sharma,0,0,0,0,0,2,v Sri Lanka,Ranchi,61,196,6,20,9.8,NA,1,1,127,9,20,6.35,197,2
+12/02/16,Yuvraj Singh,1,1,0,0,1,2,v Sri Lanka,Ranchi,61,196,6,20,9.8,NA,1,1,127,9,20,6.35,197,2
+14/02/16,R Ashwin,0,0,0,0,0,1,v Sri Lanka,Visakhapatnam,62,84,1,13.5,6.07,83,2,1,82,10,18,4.55,NA,1
+14/02/16,JJ Bumrah,0,0,0,0,0,1,v Sri Lanka,Visakhapatnam,62,84,1,13.5,6.07,83,2,1,82,10,18,4.55,NA,1
+14/02/16,S Dhawan,0,0,0,0,0,1,v Sri Lanka,Visakhapatnam,62,84,1,13.5,6.07,83,2,1,82,10,18,4.55,NA,1
+14/02/16,MS Dhoni,2,1,1,1,0,1,v Sri Lanka,Visakhapatnam,62,84,1,13.5,6.07,83,2,1,82,10,18,4.55,NA,1
+14/02/16,RA Jadeja,1,1,0,0,1,1,v Sri Lanka,Visakhapatnam,62,84,1,13.5,6.07,83,2,1,82,10,18,4.55,NA,1
+14/02/16,A Nehra,0,0,0,0,0,1,v Sri Lanka,Visakhapatnam,62,84,1,13.5,6.07,83,2,1,82,10,18,4.55,NA,1
+14/02/16,HH Pandya,1,1,0,0,1,1,v Sri Lanka,Visakhapatnam,62,84,1,13.5,6.07,83,2,1,82,10,18,4.55,NA,1
+14/02/16,AM Rahane,0,0,0,0,0,1,v Sri Lanka,Visakhapatnam,62,84,1,13.5,6.07,83,2,1,82,10,18,4.55,NA,1
+14/02/16,SK Raina,1,1,0,0,1,1,v Sri Lanka,Visakhapatnam,62,84,1,13.5,6.07,83,2,1,82,10,18,4.55,NA,1
+14/02/16,RG Sharma,0,0,0,0,0,1,v Sri Lanka,Visakhapatnam,62,84,1,13.5,6.07,83,2,1,82,10,18,4.55,NA,1
+14/02/16,Yuvraj Singh,0,0,0,0,0,1,v Sri Lanka,Visakhapatnam,62,84,1,13.5,6.07,83,2,1,82,10,18,4.55,NA,1
+24/02/16,R Ashwin,0,0,0,0,0,2,v Bangladesh,Dhaka,63,166,6,20,8.3,NA,1,1,121,7,20,6.05,167,2
+24/02/16,JJ Bumrah,0,0,0,0,0,2,v Bangladesh,Dhaka,63,166,6,20,8.3,NA,1,1,121,7,20,6.05,167,2
+24/02/16,S Dhawan,0,0,0,0,0,2,v Bangladesh,Dhaka,63,166,6,20,8.3,NA,1,1,121,7,20,6.05,167,2
+24/02/16,MS Dhoni,2,2,0,2,0,2,v Bangladesh,Dhaka,63,166,6,20,8.3,NA,1,1,121,7,20,6.05,167,2
+24/02/16,RA Jadeja,1,1,0,0,1,2,v Bangladesh,Dhaka,63,166,6,20,8.3,NA,1,1,121,7,20,6.05,167,2
+24/02/16,V Kohli,0,0,0,0,0,2,v Bangladesh,Dhaka,63,166,6,20,8.3,NA,1,1,121,7,20,6.05,167,2
+24/02/16,A Nehra,0,0,0,0,0,2,v Bangladesh,Dhaka,63,166,6,20,8.3,NA,1,1,121,7,20,6.05,167,2
+24/02/16,HH Pandya,0,0,0,0,0,2,v Bangladesh,Dhaka,63,166,6,20,8.3,NA,1,1,121,7,20,6.05,167,2
+24/02/16,SK Raina,0,0,0,0,0,2,v Bangladesh,Dhaka,63,166,6,20,8.3,NA,1,1,121,7,20,6.05,167,2
+24/02/16,RG Sharma,1,1,0,0,1,2,v Bangladesh,Dhaka,63,166,6,20,8.3,NA,1,1,121,7,20,6.05,167,2
+24/02/16,Yuvraj Singh,1,1,0,0,1,2,v Bangladesh,Dhaka,63,166,6,20,8.3,NA,1,1,121,7,20,6.05,167,2
+27/02/16,R Ashwin,0,0,0,0,0,1,v Pakistan,Dhaka,64,85,5,15.3,5.48,84,2,1,83,10,17.3,4.74,NA,1
+27/02/16,JJ Bumrah,0,0,0,0,0,1,v Pakistan,Dhaka,64,85,5,15.3,5.48,84,2,1,83,10,17.3,4.74,NA,1
+27/02/16,MS Dhoni,2,2,0,2,0,1,v Pakistan,Dhaka,64,85,5,15.3,5.48,84,2,1,83,10,17.3,4.74,NA,1
+27/02/16,RA Jadeja,0,0,0,0,0,1,v Pakistan,Dhaka,64,85,5,15.3,5.48,84,2,1,83,10,17.3,4.74,NA,1
+27/02/16,V Kohli,0,0,0,0,0,1,v Pakistan,Dhaka,64,85,5,15.3,5.48,84,2,1,83,10,17.3,4.74,NA,1
+27/02/16,A Nehra,0,0,0,0,0,1,v Pakistan,Dhaka,64,85,5,15.3,5.48,84,2,1,83,10,17.3,4.74,NA,1
+27/02/16,HH Pandya,0,0,0,0,0,1,v Pakistan,Dhaka,64,85,5,15.3,5.48,84,2,1,83,10,17.3,4.74,NA,1
+27/02/16,AM Rahane,1,1,0,0,1,1,v Pakistan,Dhaka,64,85,5,15.3,5.48,84,2,1,83,10,17.3,4.74,NA,1
+27/02/16,SK Raina,1,1,0,0,1,1,v Pakistan,Dhaka,64,85,5,15.3,5.48,84,2,1,83,10,17.3,4.74,NA,1
+27/02/16,RG Sharma,0,0,0,0,0,1,v Pakistan,Dhaka,64,85,5,15.3,5.48,84,2,1,83,10,17.3,4.74,NA,1
+27/02/16,Yuvraj Singh,0,0,0,0,0,1,v Pakistan,Dhaka,64,85,5,15.3,5.48,84,2,1,83,10,17.3,4.74,NA,1
+01/03/16,R Ashwin,1,1,0,0,1,1,v Sri Lanka,Dhaka,65,142,5,19.2,7.34,139,2,1,138,9,20,6.9,NA,1
+01/03/16,JJ Bumrah,0,0,0,0,0,1,v Sri Lanka,Dhaka,65,142,5,19.2,7.34,139,2,1,138,9,20,6.9,NA,1
+01/03/16,S Dhawan,0,0,0,0,0,1,v Sri Lanka,Dhaka,65,142,5,19.2,7.34,139,2,1,138,9,20,6.9,NA,1
+01/03/16,MS Dhoni,3,2,1,2,0,1,v Sri Lanka,Dhaka,65,142,5,19.2,7.34,139,2,1,138,9,20,6.9,NA,1
+01/03/16,RA Jadeja,0,0,0,0,0,1,v Sri Lanka,Dhaka,65,142,5,19.2,7.34,139,2,1,138,9,20,6.9,NA,1
+01/03/16,V Kohli,0,0,0,0,0,1,v Sri Lanka,Dhaka,65,142,5,19.2,7.34,139,2,1,138,9,20,6.9,NA,1
+01/03/16,A Nehra,0,0,0,0,0,1,v Sri Lanka,Dhaka,65,142,5,19.2,7.34,139,2,1,138,9,20,6.9,NA,1
+01/03/16,HH Pandya,1,1,0,0,1,1,v Sri Lanka,Dhaka,65,142,5,19.2,7.34,139,2,1,138,9,20,6.9,NA,1
+01/03/16,SK Raina,1,1,0,0,1,1,v Sri Lanka,Dhaka,65,142,5,19.2,7.34,139,2,1,138,9,20,6.9,NA,1
+01/03/16,RG Sharma,0,0,0,0,0,1,v Sri Lanka,Dhaka,65,142,5,19.2,7.34,139,2,1,138,9,20,6.9,NA,1
+01/03/16,Yuvraj Singh,0,0,0,0,0,1,v Sri Lanka,Dhaka,65,142,5,19.2,7.34,139,2,1,138,9,20,6.9,NA,1
+03/03/16,JJ Bumrah,0,0,0,0,0,1,v U.A.E.,Dhaka,66,82,1,10.1,8.06,82,2,1,81,9,20,4.05,NA,1
+03/03/16,S Dhawan,0,0,0,0,0,1,v U.A.E.,Dhaka,66,82,1,10.1,8.06,82,2,1,81,9,20,4.05,NA,1
+03/03/16,MS Dhoni,0,0,0,0,0,1,v U.A.E.,Dhaka,66,82,1,10.1,8.06,82,2,1,81,9,20,4.05,NA,1
+03/03/16,Harbhajan Singh,1,1,0,0,1,1,v U.A.E.,Dhaka,66,82,1,10.1,8.06,82,2,1,81,9,20,4.05,NA,1
+03/03/16,V Kohli,1,1,0,0,1,1,v U.A.E.,Dhaka,66,82,1,10.1,8.06,82,2,1,81,9,20,4.05,NA,1
+03/03/16,B Kumar,1,1,0,0,1,1,v U.A.E.,Dhaka,66,82,1,10.1,8.06,82,2,1,81,9,20,4.05,NA,1
+03/03/16,P Negi,2,2,0,0,2,1,v U.A.E.,Dhaka,66,82,1,10.1,8.06,82,2,1,81,9,20,4.05,NA,1
+03/03/16,HH Pandya,1,1,0,0,1,1,v U.A.E.,Dhaka,66,82,1,10.1,8.06,82,2,1,81,9,20,4.05,NA,1
+03/03/16,SK Raina,1,1,0,0,1,1,v U.A.E.,Dhaka,66,82,1,10.1,8.06,82,2,1,81,9,20,4.05,NA,1
+03/03/16,RG Sharma,0,0,0,0,0,1,v U.A.E.,Dhaka,66,82,1,10.1,8.06,82,2,1,81,9,20,4.05,NA,1
+03/03/16,Yuvraj Singh,0,0,0,0,0,1,v U.A.E.,Dhaka,66,82,1,10.1,8.06,82,2,1,81,9,20,4.05,NA,1
+06/03/16,R Ashwin,0,0,0,0,0,1,v Bangladesh,Dhaka,67,122,2,13.5,8.81,121,2,1,120,5,15,8,NA,1
+06/03/16,JJ Bumrah,1,1,0,0,1,1,v Bangladesh,Dhaka,67,122,2,13.5,8.81,121,2,1,120,5,15,8,NA,1
+06/03/16,S Dhawan,0,0,0,0,0,1,v Bangladesh,Dhaka,67,122,2,13.5,8.81,121,2,1,120,5,15,8,NA,1
+06/03/16,MS Dhoni,0,0,0,0,0,1,v Bangladesh,Dhaka,67,122,2,13.5,8.81,121,2,1,120,5,15,8,NA,1
+06/03/16,RA Jadeja,0,0,0,0,0,1,v Bangladesh,Dhaka,67,122,2,13.5,8.81,121,2,1,120,5,15,8,NA,1
+06/03/16,V Kohli,1,1,0,0,1,1,v Bangladesh,Dhaka,67,122,2,13.5,8.81,121,2,1,120,5,15,8,NA,1
+06/03/16,A Nehra,0,0,0,0,0,1,v Bangladesh,Dhaka,67,122,2,13.5,8.81,121,2,1,120,5,15,8,NA,1
+06/03/16,HH Pandya,1,1,0,0,1,1,v Bangladesh,Dhaka,67,122,2,13.5,8.81,121,2,1,120,5,15,8,NA,1
+06/03/16,SK Raina,0,0,0,0,0,1,v Bangladesh,Dhaka,67,122,2,13.5,8.81,121,2,1,120,5,15,8,NA,1
+06/03/16,RG Sharma,0,0,0,0,0,1,v Bangladesh,Dhaka,67,122,2,13.5,8.81,121,2,1,120,5,15,8,NA,1
+06/03/16,Yuvraj Singh,0,0,0,0,0,1,v Bangladesh,Dhaka,67,122,2,13.5,8.81,121,2,1,120,5,15,8,NA,1
+15/03/16,R Ashwin,0,0,0,0,0,1,v New Zealand,Nagpur,68,79,10,18.1,4.34,127,2,0,126,7,20,6.3,NA,1
+15/03/16,JJ Bumrah,0,0,0,0,0,1,v New Zealand,Nagpur,68,79,10,18.1,4.34,127,2,0,126,7,20,6.3,NA,1
+15/03/16,S Dhawan,0,0,0,0,0,1,v New Zealand,Nagpur,68,79,10,18.1,4.34,127,2,0,126,7,20,6.3,NA,1
+15/03/16,MS Dhoni,2,1,1,1,0,1,v New Zealand,Nagpur,68,79,10,18.1,4.34,127,2,0,126,7,20,6.3,NA,1
+15/03/16,RA Jadeja,0,0,0,0,0,1,v New Zealand,Nagpur,68,79,10,18.1,4.34,127,2,0,126,7,20,6.3,NA,1
+15/03/16,V Kohli,0,0,0,0,0,1,v New Zealand,Nagpur,68,79,10,18.1,4.34,127,2,0,126,7,20,6.3,NA,1
+15/03/16,A Nehra,0,0,0,0,0,1,v New Zealand,Nagpur,68,79,10,18.1,4.34,127,2,0,126,7,20,6.3,NA,1
+15/03/16,HH Pandya,1,1,0,0,1,1,v New Zealand,Nagpur,68,79,10,18.1,4.34,127,2,0,126,7,20,6.3,NA,1
+15/03/16,SK Raina,0,0,0,0,0,1,v New Zealand,Nagpur,68,79,10,18.1,4.34,127,2,0,126,7,20,6.3,NA,1
+15/03/16,RG Sharma,0,0,0,0,0,1,v New Zealand,Nagpur,68,79,10,18.1,4.34,127,2,0,126,7,20,6.3,NA,1
+15/03/16,Yuvraj Singh,0,0,0,0,0,1,v New Zealand,Nagpur,68,79,10,18.1,4.34,127,2,0,126,7,20,6.3,NA,1
+19/03/16,R Ashwin,1,1,0,0,1,1,v Pakistan,Kolkata,69,119,4,15.5,7.51,119,2,1,118,5,18,6.55,NA,1
+19/03/16,JJ Bumrah,0,0,0,0,0,1,v Pakistan,Kolkata,69,119,4,15.5,7.51,119,2,1,118,5,18,6.55,NA,1
+19/03/16,S Dhawan,0,0,0,0,0,1,v Pakistan,Kolkata,69,119,4,15.5,7.51,119,2,1,118,5,18,6.55,NA,1
+19/03/16,MS Dhoni,1,1,0,1,0,1,v Pakistan,Kolkata,69,119,4,15.5,7.51,119,2,1,118,5,18,6.55,NA,1
+19/03/16,RA Jadeja,1,1,0,0,1,1,v Pakistan,Kolkata,69,119,4,15.5,7.51,119,2,1,118,5,18,6.55,NA,1
+19/03/16,V Kohli,1,1,0,0,1,1,v Pakistan,Kolkata,69,119,4,15.5,7.51,119,2,1,118,5,18,6.55,NA,1
+19/03/16,A Nehra,0,0,0,0,0,1,v Pakistan,Kolkata,69,119,4,15.5,7.51,119,2,1,118,5,18,6.55,NA,1
+19/03/16,HH Pandya,1,1,0,0,1,1,v Pakistan,Kolkata,69,119,4,15.5,7.51,119,2,1,118,5,18,6.55,NA,1
+19/03/16,SK Raina,0,0,0,0,0,1,v Pakistan,Kolkata,69,119,4,15.5,7.51,119,2,1,118,5,18,6.55,NA,1
+19/03/16,RG Sharma,0,0,0,0,0,1,v Pakistan,Kolkata,69,119,4,15.5,7.51,119,2,1,118,5,18,6.55,NA,1
+19/03/16,Yuvraj Singh,0,0,0,0,0,1,v Pakistan,Kolkata,69,119,4,15.5,7.51,119,2,1,118,5,18,6.55,NA,1
+23/03/16,R Ashwin,0,0,0,0,0,2,v Bangladesh,Bangalore,70,146,7,20,7.3,NA,1,1,145,9,20,7.25,147,2
+23/03/16,JJ Bumrah,0,0,0,0,0,2,v Bangladesh,Bangalore,70,146,7,20,7.3,NA,1,1,145,9,20,7.25,147,2
+23/03/16,S Dhawan,1,1,0,0,1,2,v Bangladesh,Bangalore,70,146,7,20,7.3,NA,1,1,145,9,20,7.25,147,2
+23/03/16,MS Dhoni,2,0,2,0,0,2,v Bangladesh,Bangalore,70,146,7,20,7.3,NA,1,1,145,9,20,7.25,147,2
+23/03/16,RA Jadeja,1,1,0,0,1,2,v Bangladesh,Bangalore,70,146,7,20,7.3,NA,1,1,145,9,20,7.25,147,2
+23/03/16,V Kohli,1,1,0,0,1,2,v Bangladesh,Bangalore,70,146,7,20,7.3,NA,1,1,145,9,20,7.25,147,2
+23/03/16,A Nehra,0,0,0,0,0,2,v Bangladesh,Bangalore,70,146,7,20,7.3,NA,1,1,145,9,20,7.25,147,2
+23/03/16,HH Pandya,1,1,0,0,1,2,v Bangladesh,Bangalore,70,146,7,20,7.3,NA,1,1,145,9,20,7.25,147,2
+23/03/16,SK Raina,1,1,0,0,1,2,v Bangladesh,Bangalore,70,146,7,20,7.3,NA,1,1,145,9,20,7.25,147,2
+23/03/16,RG Sharma,0,0,0,0,0,2,v Bangladesh,Bangalore,70,146,7,20,7.3,NA,1,1,145,9,20,7.25,147,2
+23/03/16,Yuvraj Singh,0,0,0,0,0,2,v Bangladesh,Bangalore,70,146,7,20,7.3,NA,1,1,145,9,20,7.25,147,2
+27/03/16,R Ashwin,0,0,0,0,0,1,v Australia,Mohali,71,161,4,19.1,8.4,161,2,1,160,6,20,8,NA,1
+27/03/16,JJ Bumrah,0,0,0,0,0,1,v Australia,Mohali,71,161,4,19.1,8.4,161,2,1,160,6,20,8,NA,1
+27/03/16,S Dhawan,1,1,0,0,1,1,v Australia,Mohali,71,161,4,19.1,8.4,161,2,1,160,6,20,8,NA,1
+27/03/16,MS Dhoni,3,2,1,2,0,1,v Australia,Mohali,71,161,4,19.1,8.4,161,2,1,160,6,20,8,NA,1
+27/03/16,RA Jadeja,0,0,0,0,0,1,v Australia,Mohali,71,161,4,19.1,8.4,161,2,1,160,6,20,8,NA,1
+27/03/16,V Kohli,1,1,0,0,1,1,v Australia,Mohali,71,161,4,19.1,8.4,161,2,1,160,6,20,8,NA,1
+27/03/16,A Nehra,0,0,0,0,0,1,v Australia,Mohali,71,161,4,19.1,8.4,161,2,1,160,6,20,8,NA,1
+27/03/16,HH Pandya,0,0,0,0,0,1,v Australia,Mohali,71,161,4,19.1,8.4,161,2,1,160,6,20,8,NA,1
+27/03/16,SK Raina,0,0,0,0,0,1,v Australia,Mohali,71,161,4,19.1,8.4,161,2,1,160,6,20,8,NA,1
+27/03/16,RG Sharma,0,0,0,0,0,1,v Australia,Mohali,71,161,4,19.1,8.4,161,2,1,160,6,20,8,NA,1
+27/03/16,Yuvraj Singh,0,0,0,0,0,1,v Australia,Mohali,71,161,4,19.1,8.4,161,2,1,160,6,20,8,NA,1
+31/03/16,R Ashwin,0,0,0,0,0,2,v West Indies,Mumbai,72,192,2,20,9.6,NA,1,0,196,3,19.4,9.96,193,2
+31/03/16,JJ Bumrah,0,0,0,0,0,2,v West Indies,Mumbai,72,192,2,20,9.6,NA,1,0,196,3,19.4,9.96,193,2
+31/03/16,MS Dhoni,0,0,0,0,0,2,v West Indies,Mumbai,72,192,2,20,9.6,NA,1,0,196,3,19.4,9.96,193,2
+31/03/16,RA Jadeja,0,0,0,0,0,2,v West Indies,Mumbai,72,192,2,20,9.6,NA,1,0,196,3,19.4,9.96,193,2
+31/03/16,V Kohli,0,0,0,0,0,2,v West Indies,Mumbai,72,192,2,20,9.6,NA,1,0,196,3,19.4,9.96,193,2
+31/03/16,A Nehra,0,0,0,0,0,2,v West Indies,Mumbai,72,192,2,20,9.6,NA,1,0,196,3,19.4,9.96,193,2
+31/03/16,MK Pandey,0,0,0,0,0,2,v West Indies,Mumbai,72,192,2,20,9.6,NA,1,0,196,3,19.4,9.96,193,2
+31/03/16,HH Pandya,0,0,0,0,0,2,v West Indies,Mumbai,72,192,2,20,9.6,NA,1,0,196,3,19.4,9.96,193,2
+31/03/16,AM Rahane,1,1,0,0,1,2,v West Indies,Mumbai,72,192,2,20,9.6,NA,1,0,196,3,19.4,9.96,193,2
+31/03/16,SK Raina,0,0,0,0,0,2,v West Indies,Mumbai,72,192,2,20,9.6,NA,1,0,196,3,19.4,9.96,193,2
+31/03/16,RG Sharma,1,1,0,0,1,2,v West Indies,Mumbai,72,192,2,20,9.6,NA,1,0,196,3,19.4,9.96,193,2
